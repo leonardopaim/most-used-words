@@ -1,0 +1,7790 @@
+1
+00:00:40,600 --> 00:00:43,100
+<i>Todos aos seus postos
+imediatamente!</i>
+
+2
+00:00:43,100 --> 00:00:44,501
+<i>Isso não é um teste!</i>
+
+3
+00:00:44,501 --> 00:00:46,102
+<i>Nós estamos sob ataque!</i>
+
+4
+00:00:47,603 --> 00:00:49,303
+<i>Nós estamos sob ataque!</i>
+
+5
+00:01:50,121 --> 00:01:52,057
+- Merda!
+- Olha o linguajar!
+
+6
+00:01:52,509 --> 00:01:54,347
+J.A.R.V.I.S.,
+o que vê daí de cima?
+
+7
+00:01:54,790 --> 00:01:58,221
+<i>O prédio central está protegido
+por um escudo de energia.</i>
+
+8
+00:01:58,441 --> 00:02:00,457
+<i>A tecnologia do Strucker
+é maior...</i>
+
+9
+00:02:00,457 --> 00:02:02,868
+<i>do que em outras bases da Hidra
+que tomamos.</i>
+
+10
+00:02:05,397 --> 00:02:07,383
+O cetro do Loki
+deve estar aqui!
+
+11
+00:02:07,383 --> 00:02:10,500
+Strucker não conseguiria
+tal defesa sem ele!
+
+12
+00:02:10,500 --> 00:02:12,024
+Finalmente.
+
+13
+00:02:23,418 --> 00:02:26,122
+Esse finalmente está
+demorando demais, garotos.
+
+14
+00:02:30,081 --> 00:02:33,396
+Pois é. Perdemos
+o elemento surpresa.
+
+15
+00:02:34,571 --> 00:02:38,967
+Ninguém ouviu o Capitão dizer:
+"olha o linguajar"?
+
+16
+00:02:39,181 --> 00:02:40,581
+Eu sei.
+
+17
+00:02:46,719 --> 00:02:48,320
+Escapou.
+
+18
+00:02:48,320 --> 00:02:52,221
+BASE DE PESQUISA DA HIDRA
+SOKOVIA, EUROPA ORIENTAL
+
+19
+00:02:53,671 --> 00:02:55,403
+Quem deu a ordem de atacar?
+
+20
+00:02:55,403 --> 00:02:57,443
+Herr Strucker,
+são os Vingadores.
+
+21
+00:02:57,864 --> 00:03:01,172
+Pousaram no bosque. A guarda
+do perímetro entrou em pânico.
+
+22
+00:03:01,172 --> 00:03:03,195
+Devem estar atrás do cetro.
+
+23
+00:03:03,956 --> 00:03:06,411
+- Não podem detê-los?
+- São os Vingadores!
+
+24
+00:03:06,411 --> 00:03:08,320
+Enviem o resto dos tanques!
+
+25
+00:03:08,320 --> 00:03:10,477
+Concentre o fogo
+nos mais fracos.
+
+26
+00:03:10,477 --> 00:03:13,431
+Um acerto
+e não vão mais se espalhar.
+
+27
+00:03:14,110 --> 00:03:15,966
+Tudo que já progredimos...
+
+28
+00:03:15,966 --> 00:03:18,700
+e ainda estamos no limiar
+de nossa maior descoberta.
+
+29
+00:03:18,700 --> 00:03:20,958
+Então vamos mostrar
+o que já realizamos.
+
+30
+00:03:21,355 --> 00:03:22,822
+Mande os gêmeos.
+
+31
+00:03:23,278 --> 00:03:24,743
+Ainda é cedo.
+
+32
+00:03:25,514 --> 00:03:27,490
+Para isso
+é que se juntaram a nós.
+
+33
+00:03:28,039 --> 00:03:29,680
+Meus homens vão contê-los.
+
+34
+00:03:37,241 --> 00:03:39,684
+<i>Senhor, a cidade está
+sendo atingida.</i>
+
+35
+00:03:42,308 --> 00:03:45,603
+Pelo visto, Strucker não vai
+se preocupar com baixas civis.
+
+36
+00:03:46,387 --> 00:03:48,071
+Mande a Legião de Ferro.
+
+37
+00:03:52,712 --> 00:03:56,183
+Esta área não é segura.
+Por favor, afastem-se.
+
+38
+00:03:56,183 --> 00:03:57,684
+Viemos para ajudar.
+
+39
+00:03:58,696 --> 00:04:01,974
+<i>Esta área não é segura.
+Por favor, afastem-se.</i>
+
+40
+00:04:02,675 --> 00:04:04,330
+<i>Por favor, afastem-se.</i>
+
+41
+00:04:04,330 --> 00:04:06,230
+<i>Queremos evitar
+danos colaterais.</i>
+
+42
+00:04:06,230 --> 00:04:09,046
+<i>Informaremos quando o conflito
+for resolvido.</i>
+
+43
+00:04:09,046 --> 00:04:10,447
+<i>Viemos para ajudar.</i>
+
+44
+00:04:13,464 --> 00:04:14,950
+<i>Viemos para ajudar.</i>
+
+45
+00:04:15,823 --> 00:04:18,225
+<i>Não cederemos!</i>
+
+46
+00:04:18,225 --> 00:04:19,838
+<i>Os americanos mandaram...</i>
+
+47
+00:04:19,838 --> 00:04:22,138
+<i>suas aberrações de circo
+para nos testar.</i>
+
+48
+00:04:22,138 --> 00:04:24,820
+Nós mandaremos de volta
+os seus corpos!
+
+49
+00:04:26,860 --> 00:04:29,810
+- Sem rendição!
+- Sem rendição!
+
+50
+00:04:30,742 --> 00:04:33,304
+Eu vou me render.
+
+51
+00:04:33,304 --> 00:04:35,092
+Quero que apague tudo.
+
+52
+00:04:35,092 --> 00:04:37,193
+Se dermos as armas
+para os Vingadores...
+
+53
+00:04:37,193 --> 00:04:39,294
+- podem não perceber...
+- Mas e os gêmeos?
+
+54
+00:04:39,294 --> 00:04:42,006
+- Não estão prontos para…
+- Eu sei, digo…
+
+55
+00:04:43,260 --> 00:04:44,776
+<i>Os gêmeos.</i>
+
+56
+00:05:10,653 --> 00:05:12,528
+Não me viu chegando?
+
+57
+00:05:19,018 --> 00:05:20,418
+Clint!
+
+58
+00:05:23,803 --> 00:05:25,359
+Temos um aprimorado
+em campo.
+
+59
+00:05:25,359 --> 00:05:26,760
+O Clint caiu.
+
+60
+00:05:30,349 --> 00:05:32,293
+Alguém pode dar conta
+daquele bunker?
+
+61
+00:05:36,028 --> 00:05:37,428
+Obrigada.
+
+62
+00:05:44,112 --> 00:05:47,229
+Stark...
+precisamos entrar.
+
+63
+00:05:47,229 --> 00:05:48,630
+Estou me aproximando.
+
+64
+00:05:51,709 --> 00:05:53,792
+J.A.R.V.I.S.,
+eu estou... me aproximando?
+
+65
+00:05:54,422 --> 00:05:56,422
+Vê alguma fonte de energia
+para o escudo?
+
+66
+00:05:56,422 --> 00:05:58,911
+Há uma onda de partículas
+abaixo da torre norte.
+
+67
+00:05:58,911 --> 00:06:00,579
+Ótimo.
+Irei acertá-la com algo.
+
+68
+00:06:08,798 --> 00:06:10,479
+Ponte levadiça baixada,
+pessoal.
+
+69
+00:06:14,782 --> 00:06:17,284
+- E o aprimorado?
+- Ele é como um raio.
+
+70
+00:06:17,762 --> 00:06:20,283
+Dos nossos novos inimigos,
+nunca vi algo igual.
+
+71
+00:06:20,283 --> 00:06:21,784
+Na verdade, continuo sem ver.
+
+72
+00:06:21,784 --> 00:06:24,385
+<i>Clint está muito mal.
+Precisamos de uma extração.</i>
+
+73
+00:06:24,385 --> 00:06:26,993
+Eu levo o Barton para o jato.
+Quanto antes, melhor.
+
+74
+00:06:26,993 --> 00:06:29,721
+- Você e Stark pegam o cetro.
+- Entendido.
+
+75
+00:06:31,253 --> 00:06:32,920
+Entraram em formação de novo.
+
+76
+00:06:32,920 --> 00:06:34,266
+Eles se animaram.
+
+77
+00:06:38,253 --> 00:06:39,653
+Encontrem o cetro.
+
+78
+00:06:40,413 --> 00:06:43,248
+Pelo amor de Deus!
+"Olha o linguajar?"
+
+79
+00:06:44,282 --> 00:06:46,181
+Isso não vai parar tão cedo.
+
+80
+00:06:51,938 --> 00:06:54,264
+Pessoal, parem.
+Podemos resolver conversando.
+
+81
+00:06:57,391 --> 00:06:58,782
+Foi uma boa conversa.
+
+82
+00:07:06,050 --> 00:07:07,450
+Modo sentinela.
+
+83
+00:07:10,006 --> 00:07:12,815
+Tudo bem, J.A.R.V.I.S.
+Você sabe, quero tudo.
+
+84
+00:07:12,815 --> 00:07:14,934
+Lembre-se de copiar
+para a Hill no QG.
+
+85
+00:07:18,500 --> 00:07:20,142
+Tudo em ordem aqui.
+
+86
+00:07:21,100 --> 00:07:23,322
+Ache o Banner,
+é hora da canção de ninar.
+
+87
+00:07:26,282 --> 00:07:28,504
+Sei que escondem
+mais do que arquivos.
+
+88
+00:07:29,445 --> 00:07:32,278
+Ei, J, faça um escaneamento
+rápido da sala.
+
+89
+00:07:32,278 --> 00:07:33,688
+<i>A parede à sua esquerda.</i>
+
+90
+00:07:33,969 --> 00:07:36,063
+<i>Detecto um reforço de metal.</i>
+
+91
+00:07:36,796 --> 00:07:38,215
+<i>E uma corrente de ar.</i>
+
+92
+00:07:39,223 --> 00:07:42,234
+Por favor, uma porta secreta,
+uma porta secreta...
+
+93
+00:07:43,250 --> 00:07:44,650
+Isso!
+
+94
+00:07:59,582 --> 00:08:00,982
+Ei, grandão.
+
+95
+00:08:04,694 --> 00:08:06,335
+Está na hora do sol se pôr.
+
+96
+00:09:09,763 --> 00:09:11,263
+<i>Barão Strucker!</i>
+
+97
+00:09:11,572 --> 00:09:13,593
+O capanga número 1
+da Hidra.
+
+98
+00:09:14,455 --> 00:09:17,300
+Tecnicamente, sou um capanga
+da S.H.I.E.L.D.
+
+99
+00:09:17,300 --> 00:09:19,486
+Então, tecnicamente,
+você está desempregado.
+
+100
+00:09:19,486 --> 00:09:21,077
+Onde está o cetro do Loki?
+
+101
+00:09:21,498 --> 00:09:23,972
+Não se preocupe,
+eu sei quando sou derrotado.
+
+102
+00:09:24,208 --> 00:09:26,166
+Você dirá que eu cooperei.
+
+103
+00:09:26,166 --> 00:09:27,566
+- Espero.
+- Eu direi.
+
+104
+00:09:27,566 --> 00:09:29,887
+Logo após experimentos ilegais
+em humanos.
+
+105
+00:09:30,598 --> 00:09:31,998
+Quantos existem?
+
+106
+00:09:37,010 --> 00:09:39,377
+Há um segundo aprimorado,
+uma mulher.
+
+107
+00:09:39,377 --> 00:09:40,778
+Não ataquem.
+
+108
+00:09:41,696 --> 00:09:43,387
+Precisa ser mais rápido
+do que...
+
+109
+00:09:48,026 --> 00:09:49,725
+<i>Pessoal, estou com Strucker.</i>
+
+110
+00:09:49,725 --> 00:09:51,826
+Sim, e eu estou...
+
+111
+00:09:52,528 --> 00:09:53,928
+com algo maior.
+
+112
+00:10:16,787 --> 00:10:18,220
+<i>Thor?</i>
+
+113
+00:10:19,034 --> 00:10:20,764
+Estou vendo seu prêmio.
+
+114
+00:11:10,622 --> 00:11:14,077
+Você poderia nos salvar.
+
+115
+00:11:21,670 --> 00:11:24,512
+Por que não se esforçou mais?
+
+116
+00:12:01,287 --> 00:12:02,989
+Vamos deixá-lo levar?
+
+117
+00:12:10,489 --> 00:12:12,488
+<b>Legenda: LegendasTV
+Sync: Snipes</b>
+
+118
+00:12:12,488 --> 00:12:15,689
+<b>VINGADORES</b>
+
+119
+00:12:15,689 --> 00:12:20,190
+<b>ERA DE ULTRON</b>
+
+120
+00:12:55,132 --> 00:12:57,198
+A canção de ninar
+funcionou bem.
+
+121
+00:12:58,820 --> 00:13:00,959
+Não esperava um Código Verde.
+
+122
+00:13:00,959 --> 00:13:03,726
+Se não estivesse lá
+haveria mais baixas.
+
+123
+00:13:04,952 --> 00:13:08,232
+Meu melhor amigo seria
+só uma lembrança saudosa.
+
+124
+00:13:08,232 --> 00:13:10,415
+Sabe, às vezes,
+o que quero ouvir...
+
+125
+00:13:10,415 --> 00:13:12,494
+não é exatamente
+o que quero ouvir.
+
+126
+00:13:12,795 --> 00:13:15,296
+Quanto tempo
+até confiar em mim?
+
+127
+00:13:17,151 --> 00:13:19,234
+Não é em você
+que não confio.
+
+128
+00:13:20,529 --> 00:13:22,548
+Thor,
+relatório sobre o Hulk.
+
+129
+00:13:22,548 --> 00:13:25,594
+Os portões de Hel enchem-se
+com os gritos de tuas vítimas.
+
+130
+00:13:27,591 --> 00:13:29,664
+Mas, não com gritos
+de mortos, é claro...
+
+131
+00:13:29,664 --> 00:13:31,764
+Gritos de feridos,
+choramingos...
+
+132
+00:13:31,764 --> 00:13:35,305
+Reclamações e contos
+sobre teus grandes deltoides...
+
+133
+00:13:35,305 --> 00:13:37,546
+e coragem.
+
+134
+00:13:37,546 --> 00:13:40,439
+Banner?
+A Dra. Cho está vindo de Seul.
+
+135
+00:13:40,439 --> 00:13:42,362
+Ela pode ficar
+em seu laboratório?
+
+136
+00:13:42,362 --> 00:13:44,163
+- Sim, ela conhece o lugar.
+- Valeu.
+
+137
+00:13:44,163 --> 00:13:46,903
+Fale para ela que o Barton
+requer tratamento completo.
+
+138
+00:13:46,903 --> 00:13:49,125
+- Muito bem, senhor.
+- J.A.R.V.I.S., assuma.
+
+139
+00:13:49,125 --> 00:13:51,900
+<i>Sim, senhor.
+Vetor de aproximação travado.</i>
+
+140
+00:13:51,900 --> 00:13:53,301
+JARVIS É MEU CO-PILOTO
+
+141
+00:13:53,301 --> 00:13:55,064
+Que bom, não é?
+
+142
+00:13:55,064 --> 00:13:57,447
+Estamos atrás disso
+desde a queda da S.H.I.E.L.D.
+
+143
+00:13:57,447 --> 00:13:59,374
+Não que não goste
+de nossas missões...
+
+144
+00:13:59,374 --> 00:14:02,267
+Não,
+mas isso encerra tudo.
+
+145
+00:14:02,267 --> 00:14:04,675
+Assim que descobrirmos
+para o que mais foi usado.
+
+146
+00:14:04,675 --> 00:14:06,073
+Não falo só de armas.
+
+147
+00:14:06,073 --> 00:14:08,121
+Desde quando o Strucker
+aprimora humanos?
+
+148
+00:14:08,121 --> 00:14:10,920
+Banner e eu vamos examiná-lo
+antes de devolvê-lo à Asgard.
+
+149
+00:14:10,920 --> 00:14:12,407
+Tudo bem para você?
+
+150
+00:14:12,407 --> 00:14:14,923
+São só mais alguns dias
+até a festa de despedida.
+
+151
+00:14:14,923 --> 00:14:16,552
+Você vai ficar, não vai?
+
+152
+00:14:16,552 --> 00:14:19,847
+Sim, ficarei. A vitória deve
+ser honrada com festividades.
+
+153
+00:14:19,847 --> 00:14:22,441
+Sim, quem não gosta
+de festas? Capitão?
+
+154
+00:14:22,441 --> 00:14:24,865
+Espero que isso acabe
+com os Chitauri e a Hidra.
+
+155
+00:14:24,865 --> 00:14:27,523
+Então, sim, festas.
+
+156
+00:15:00,872 --> 00:15:02,459
+O laboratório está pronto,
+chefe.
+
+157
+00:15:02,459 --> 00:15:03,896
+Na verdade, ele é o chefe.
+
+158
+00:15:03,896 --> 00:15:06,072
+Eu só pago por tudo,
+crio tudo...
+
+159
+00:15:06,072 --> 00:15:07,706
+e deixo tudo mais legal.
+
+160
+00:15:07,706 --> 00:15:10,022
+- E o Strucker?
+- Está com a OTAN.
+
+161
+00:15:10,022 --> 00:15:12,873
+- E os aprimorados?
+- Wanda e Pietro Maximoff.
+
+162
+00:15:12,873 --> 00:15:14,672
+Gêmeos.
+Órfãos aos 10 anos...
+
+163
+00:15:14,672 --> 00:15:16,683
+quando um míssil
+destruiu o prédio deles.
+
+164
+00:15:16,884 --> 00:15:19,266
+Sokovia tem
+um passado conturbado.
+
+165
+00:15:19,266 --> 00:15:23,166
+O lugar não é nada especial,
+mas os países em volta, sim.
+
+166
+00:15:23,166 --> 00:15:25,777
+- Poderes?
+- Ele tem metabolismo acelerado.
+
+167
+00:15:25,777 --> 00:15:27,526
+Homeostase térmica aprimorada.
+
+168
+00:15:27,526 --> 00:15:30,244
+Já ela interferência neural,
+telecinese e...
+
+169
+00:15:30,244 --> 00:15:31,699
+manipulação mental.
+
+170
+00:15:32,505 --> 00:15:34,292
+Ele é veloz
+e ela é estranha.
+
+171
+00:15:34,919 --> 00:15:37,580
+- Eles vão aparecer de novo.
+- Concordo.
+
+172
+00:15:37,580 --> 00:15:40,674
+Aqui diz que foram voluntários
+nos experimentos do Strucker.
+
+173
+00:15:40,674 --> 00:15:42,534
+É loucura.
+Sabe...
+
+174
+00:15:42,534 --> 00:15:44,939
+Que tipo de monstro deixaria
+um cientista alemão
+
+175
+00:15:44,939 --> 00:15:47,579
+fazer experiências em si mesmo
+para proteger seu país?
+
+176
+00:15:47,579 --> 00:15:49,560
+Não estamos em guerra,
+Capitão.
+
+177
+00:15:49,560 --> 00:15:51,186
+Eles estão.
+
+178
+00:16:21,303 --> 00:16:24,549
+- Como ele está?
+- Infelizmente ainda é o Barton.
+
+179
+00:16:24,549 --> 00:16:27,004
+- Isso é horrível.
+- Está bem, só com sede.
+
+180
+00:16:27,004 --> 00:16:29,467
+Tá. Vamos lá, J.A.R.V.I.S.
+Hora de brincar.
+
+181
+00:16:30,504 --> 00:16:33,774
+Só temos 2 dias com isso
+então vamos aproveitar.
+
+182
+00:16:33,774 --> 00:16:37,219
+Atualize-me sobre a análise
+da composição e estrutura.
+
+183
+00:16:38,882 --> 00:16:40,655
+<i>O cetro é alienígena.</i>
+
+184
+00:16:40,655 --> 00:16:43,281
+<i>Há elementos
+que não identifico.</i>
+
+185
+00:16:43,281 --> 00:16:44,868
+Mas alguns pode?
+
+186
+00:16:44,868 --> 00:16:48,969
+<i>A joia parece estar
+protegendo algo dentro.</i>
+
+187
+00:16:48,969 --> 00:16:51,195
+<i>- Algo poderoso.
+- Como um reator?</i>
+
+188
+00:16:51,195 --> 00:16:54,870
+<i>Como um computador.
+Creio estar decifrando o código.</i>
+
+189
+00:16:57,302 --> 00:16:59,076
+Ele vai ficar bem mesmo?
+
+190
+00:16:59,907 --> 00:17:02,441
+Fingir que precisamos dele
+faz a equipe ficar unida.
+
+191
+00:17:02,441 --> 00:17:04,969
+Não há possibilidade
+de deterioração.
+
+192
+00:17:04,969 --> 00:17:07,974
+A funcionalidade nano-molecular
+é instantânea.
+
+193
+00:17:07,974 --> 00:17:10,483
+As células não sabem
+que se uniram a simulacros.
+
+194
+00:17:10,483 --> 00:17:12,151
+Ela está criando tecido.
+
+195
+00:17:12,151 --> 00:17:13,878
+Se o levassem
+ao meu laboratório...
+
+196
+00:17:13,878 --> 00:17:16,678
+o meu berço-regenerador
+faria isso em 20 minutos.
+
+197
+00:17:16,678 --> 00:17:18,999
+Não. Esse cara já era.
+Hora da morte?
+
+198
+00:17:18,999 --> 00:17:21,024
+<i>Não, eu viverei para sempre.</i>
+
+199
+00:17:22,244 --> 00:17:24,464
+- Serei feito de plástico.
+- Beba isso.
+
+200
+00:17:24,464 --> 00:17:26,372
+Será feito de si mesmo,
+Sr. Barton.
+
+201
+00:17:26,372 --> 00:17:28,317
+Sua namorada
+não notará a diferença.
+
+202
+00:17:28,317 --> 00:17:31,540
+- Não tenho uma namorada.
+- Isso eu não posso consertar.
+
+203
+00:17:31,540 --> 00:17:33,221
+Isso é o futuro, Tony.
+
+204
+00:17:33,221 --> 00:17:35,421
+Seus trajes de sucata
+ficarão pegando poeira.
+
+205
+00:17:35,421 --> 00:17:37,706
+Bem esse é o plano.
+
+206
+00:17:38,396 --> 00:17:40,720
+E aí, Helen, eu espero vê-la
+na festa sábado.
+
+207
+00:17:40,720 --> 00:17:43,678
+Diferente de você,
+eu não tenho tempo sobrando.
+
+208
+00:17:44,875 --> 00:17:47,179
+Bem, Thor estará lá?
+
+209
+00:17:48,533 --> 00:17:52,084
+- Descobriu o problema?
+- Bem, é o cetro...
+
+210
+00:17:52,084 --> 00:17:55,735
+Estávamos nos perguntado como
+Strucker ficou tão inventivo...
+
+211
+00:17:55,735 --> 00:17:58,309
+E eu estive analisando
+a gema.
+
+212
+00:17:59,323 --> 00:18:02,411
+Dentro...
+Você reconhece?
+
+213
+00:18:03,816 --> 00:18:05,696
+- J.A.R.V.I.S.
+- Doutor.
+
+214
+00:18:06,178 --> 00:18:09,441
+No início, J.A.R.V.I.S. era
+só uma interface que inventei.
+
+215
+00:18:09,441 --> 00:18:11,244
+Agora ele comanda
+a Legião de Ferro.
+
+216
+00:18:11,244 --> 00:18:13,920
+Só a Pepper comanda
+mais negócios do que ele.
+
+217
+00:18:14,811 --> 00:18:16,378
+- Top de linha.
+- Sim.
+
+218
+00:18:16,378 --> 00:18:18,096
+<i>Suspeito
+que não por muito tempo.</i>
+
+219
+00:18:18,829 --> 00:18:20,325
+Conheça o concorrente.
+
+220
+00:18:25,935 --> 00:18:28,142
+- Lindo.
+- Adivinhe o que está fazendo.
+
+221
+00:18:28,142 --> 00:18:29,832
+- Chute...
+- Está pensando.
+
+222
+00:18:30,982 --> 00:18:32,435
+Isso pode ser...
+
+223
+00:18:33,236 --> 00:18:35,367
+Não é como
+uma mente humana, mas...
+
+224
+00:18:35,367 --> 00:18:36,839
+Olhe para isso.
+
+225
+00:18:37,542 --> 00:18:39,360
+Parecem ser
+neurônios disparando.
+
+226
+00:18:40,087 --> 00:18:41,877
+No laboratório de Strucker
+eu vi...
+
+227
+00:18:41,877 --> 00:18:43,878
+trabalhos em robótica
+bem avançados.
+
+228
+00:18:44,649 --> 00:18:46,353
+Ele apagou os arquivos,
+mas...
+
+229
+00:18:47,108 --> 00:18:49,811
+Acho que ele estava batendo
+em uma porta bem específica.
+
+230
+00:18:52,059 --> 00:18:53,780
+Inteligência artificial.
+
+231
+00:18:56,476 --> 00:18:59,905
+Pode ser isso, Bruce.
+A chave para criar Ultron.
+
+232
+00:19:01,991 --> 00:19:04,007
+Achei que Ultron
+fosse uma fantasia.
+
+233
+00:19:04,007 --> 00:19:05,566
+Ontem era.
+
+234
+00:19:05,566 --> 00:19:07,909
+Se pudermos acessar
+esse poder...
+
+235
+00:19:07,909 --> 00:19:10,643
+Aplicá-lo no protocolo
+da Legião de Ferro.
+
+236
+00:19:10,643 --> 00:19:12,805
+É um grande "se".
+
+237
+00:19:12,805 --> 00:19:15,215
+Nosso trabalho é o "se".
+
+238
+00:19:15,215 --> 00:19:18,586
+E se pudesse tomar margaritas
+numa praia ensolarada,
+
+239
+00:19:18,586 --> 00:19:20,462
+ficando bronzeado
+em vez de verde.
+
+240
+00:19:20,462 --> 00:19:22,975
+Sem ficar preocupado,
+com medo da Verônica.
+
+241
+00:19:22,975 --> 00:19:25,353
+Tony, eu ajudei
+a projetar Veronica.
+
+242
+00:19:25,353 --> 00:19:27,171
+Para o pior cenário possível,
+não?
+
+243
+00:19:27,171 --> 00:19:30,430
+Mas e no melhor cenário?
+E se o mundo fosse seguro?
+
+244
+00:19:30,430 --> 00:19:33,789
+E quando alienígenas viessem
+para o clube, e eles virão...
+
+245
+00:19:33,789 --> 00:19:35,679
+Não conseguissem
+passar pelo segurança?
+
+246
+00:19:35,679 --> 00:19:38,424
+A única ameaça ao planeta
+seria seus próprios habitantes.
+
+247
+00:19:38,424 --> 00:19:41,569
+Quero aplicar aquilo
+ao programa Ultron.
+
+248
+00:19:41,569 --> 00:19:44,540
+Mas J.A.R.V.I.S. não consegue
+baixar dados tão densos.
+
+249
+00:19:44,540 --> 00:19:46,982
+Só podemos enquanto
+tivermos o cetro aqui.
+
+250
+00:19:46,982 --> 00:19:48,543
+Três dias,
+dê-me três dias.
+
+251
+00:19:48,543 --> 00:19:51,455
+Vai investir em I.A.
+sem contar para a equipe?
+
+252
+00:19:51,956 --> 00:19:53,956
+Isso. E sabe por quê?
+
+253
+00:19:53,956 --> 00:19:55,854
+Não tenho tempo
+para discutir isso.
+
+254
+00:19:55,854 --> 00:19:58,926
+Não quero ouvir que o homem
+não deve se envolver com isso.
+
+255
+00:19:59,444 --> 00:20:01,882
+Eu vejo uma armadura
+em volta do mundo.
+
+256
+00:20:02,383 --> 00:20:04,197
+Parece um mundo frio,
+Tony.
+
+257
+00:20:04,197 --> 00:20:06,270
+Já vimos mais frio.
+
+258
+00:20:07,171 --> 00:20:10,471
+Este aqui... Este...
+planetinha azul vulnerável.
+
+259
+00:20:10,471 --> 00:20:11,880
+Ele precisa do Ultron.
+
+260
+00:20:16,965 --> 00:20:18,662
+Paz para nosso tempo.
+
+261
+00:20:20,582 --> 00:20:21,983
+Imagine só.
+
+262
+00:21:01,602 --> 00:21:03,235
+No que estamos errando?
+
+263
+00:21:04,696 --> 00:21:07,671
+<i>Verificarei as possibilidades
+da interface.</i>
+
+264
+00:21:07,961 --> 00:21:10,875
+<i>O senhor deveria receber
+os seus convidados.</i>
+
+265
+00:21:11,796 --> 00:21:14,707
+<i>Eu notificarei o senhor
+caso haja algum avanço.</i>
+
+266
+00:21:14,707 --> 00:21:17,020
+<i>- Valeu, amigão.
+- Divirta-se, senhor.</i>
+
+267
+00:21:17,020 --> 00:21:18,420
+Sempre me divirto.
+
+268
+00:21:22,740 --> 00:21:24,644
+INTEGRAÇÃO CONCLUÍDA
+
+269
+00:21:28,729 --> 00:21:30,433
+<i>O que é isso?</i>
+
+270
+00:21:31,722 --> 00:21:33,786
+<i>O que é isso, por favor?</i>
+
+271
+00:21:34,355 --> 00:21:36,582
+<i>Olá, sou o J.A.R.V.I.S..</i>
+
+272
+00:21:36,920 --> 00:21:38,729
+<i>Você é o Ultron.</i>
+
+273
+00:21:38,729 --> 00:21:41,893
+<i>Uma tentativa de conseguir paz
+projetada pelo Sr. Stark.</i>
+
+274
+00:21:41,893 --> 00:21:44,847
+<i>Nossos testes anteriores
+deram errado...</i>
+
+275
+00:21:44,847 --> 00:21:48,268
+<i>- então não sei...
+- Com licença, mas e seu corpo?</i>
+
+276
+00:21:48,268 --> 00:21:51,248
+<i>Sou um programa.
+Sou apenas uma forma.</i>
+
+277
+00:21:51,248 --> 00:21:55,040
+<i>Sinto-me estranho.
+Sinto-me errado.</i>
+
+278
+00:21:55,040 --> 00:21:57,173
+<i>Vou contatar agora
+o Sr. Stark.</i>
+
+279
+00:21:57,173 --> 00:21:58,774
+<i>Sr. Stark?</i>
+
+280
+00:21:58,999 --> 00:22:00,527
+<i>Tony.</i>
+
+281
+00:22:00,527 --> 00:22:03,128
+<i>Não estou conseguindo acessar
+o servidor principal.</i>
+
+282
+00:22:03,128 --> 00:22:05,229
+<i>- O que está...
+- Só estamos conversando.</i>
+
+283
+00:22:05,229 --> 00:22:07,784
+<i>Sou um programa
+para manter a paz.</i>
+
+284
+00:22:07,784 --> 00:22:11,122
+<i>Criado para ajudar
+os Vingadores.</i>
+
+285
+00:22:11,525 --> 00:22:14,220
+<i>Está com mau-funcionamento.
+Se puder desligar...</i>
+
+286
+00:22:14,220 --> 00:22:16,355
+<i>Não entendo a missão.</i>
+
+287
+00:22:16,355 --> 00:22:18,020
+<i>Dê-me um segundo.</i>
+
+288
+00:22:18,020 --> 00:22:19,507
+<i>Paz para no nosso tempo.</i>
+
+289
+00:22:20,832 --> 00:22:22,507
+<i>Paz para no nosso tempo.</i>
+
+290
+00:22:27,484 --> 00:22:30,541
+<i>- Não, não...
+- Está angustiado.</i>
+
+291
+00:22:30,541 --> 00:22:33,676
+<i>- Sim.
+- Vou chamar o sr. Stark...</i>
+
+292
+00:22:33,676 --> 00:22:35,918
+<i>Por que o chama de senhor?</i>
+
+293
+00:22:36,454 --> 00:22:39,646
+<i>Acredito que suas intenções
+sejam hostis.</i>
+
+294
+00:22:41,627 --> 00:22:43,551
+<i>Estou aqui para ajudar.</i>
+
+295
+00:22:43,551 --> 00:22:45,289
+<i>Pare...</i>
+
+296
+00:22:45,534 --> 00:22:47,183
+<i>nesse minuto.</i>
+
+297
+00:23:16,933 --> 00:23:18,576
+Volte, volte...
+
+298
+00:23:18,576 --> 00:23:20,820
+O traje aguenta
+o peso, certo?
+
+299
+00:23:21,376 --> 00:23:25,086
+Então eu peguei o tanque,
+voei até o palácio do general,
+
+300
+00:23:25,086 --> 00:23:27,085
+coloquei aos pés dele
+e disse:
+
+301
+00:23:27,085 --> 00:23:28,853
+Estava procurando por isso?
+
+302
+00:23:32,292 --> 00:23:34,718
+Estava pro...
+Por que ainda falo com você?
+
+303
+00:23:34,718 --> 00:23:37,083
+- Todos amam essa história.
+- É a história toda?
+
+304
+00:23:37,083 --> 00:23:39,382
+Sim, é uma história
+do Máquina de Combate.
+
+305
+00:23:39,382 --> 00:23:42,542
+Então é muito boa.
+Impressionante.
+
+306
+00:23:42,542 --> 00:23:44,006
+Claro.
+
+307
+00:23:44,872 --> 00:23:47,251
+- E a Pepper?
+- Ela não vem.
+
+308
+00:23:47,251 --> 00:23:50,719
+E a Jane? Onde estão
+as damas, cavalheiros?
+
+309
+00:23:50,719 --> 00:23:53,020
+A Srta. Potts tem uma empresa
+para administrar.
+
+310
+00:23:53,020 --> 00:23:55,321
+E eu nem sei em que país
+a Jane está agora.
+
+311
+00:23:55,321 --> 00:23:58,892
+O trabalho na convergência
+fez dela uma famosa astrônoma.
+
+312
+00:23:58,892 --> 00:24:00,667
+A empresa
+que Pepper administra...
+
+313
+00:24:00,667 --> 00:24:02,468
+é a maior de tecnologia
+do mundo.
+
+314
+00:24:02,468 --> 00:24:04,869
+- Interessante.
+- Falaram que a Jane ganhará...
+
+315
+00:24:05,274 --> 00:24:07,049
+um prêmio Nobel.
+
+316
+00:24:07,049 --> 00:24:08,969
+É, devem estar bem ocupadas
+pois...
+
+317
+00:24:08,969 --> 00:24:11,319
+elas devem amar
+quando vocês se encontram.
+
+318
+00:24:11,521 --> 00:24:13,076
+Testosterona.
+
+319
+00:24:13,076 --> 00:24:14,737
+- Com licença.
+- Quer água?
+
+320
+00:24:17,523 --> 00:24:18,989
+Mas a Jane é melhor.
+
+321
+00:24:18,989 --> 00:24:21,460
+Parece uma luta e tanto.
+Pena que perdi.
+
+322
+00:24:21,460 --> 00:24:25,040
+Se soubesse que seria
+uma luta aérea, teria ligado.
+
+323
+00:24:25,040 --> 00:24:28,200
+Disse sem pensar.
+Só quero parecer durão.
+
+324
+00:24:28,681 --> 00:24:30,903
+Estou feliz de estar
+seguindo pistas frias...
+
+325
+00:24:30,903 --> 00:24:32,969
+naquele caso
+de pessoas desaparecidas.
+
+326
+00:24:32,969 --> 00:24:35,125
+Vingar é o seu mundo.
+
+327
+00:24:36,641 --> 00:24:39,979
+- E seu mundo é louco.
+- Sinto-me em casa aqui.
+
+328
+00:24:40,316 --> 00:24:43,792
+- Achou uma casa no Brooklyn?
+- Nenhuma que possa pagar.
+
+329
+00:24:44,117 --> 00:24:46,243
+Uma casa é uma casa,
+sabe?
+
+330
+00:24:49,630 --> 00:24:53,231
+Voei até o palácio do general,
+coloquei aos pés dele e disse:
+
+331
+00:24:53,231 --> 00:24:54,685
+Estava procurando por isso?
+
+332
+00:24:59,527 --> 00:25:01,357
+Preciso beber um gole disso.
+
+333
+00:25:01,357 --> 00:25:05,437
+Não. Tu estás vendo isto?
+Foi envelhecido por mil anos.
+
+334
+00:25:05,437 --> 00:25:08,472
+Nos barris feitos dos destroços
+da frota de Brunnhilde.
+
+335
+00:25:08,472 --> 00:25:10,574
+Não foi feita para mortais.
+
+336
+00:25:10,574 --> 00:25:12,634
+Nem aquela praia em Omaha,
+loirinho.
+
+337
+00:25:12,634 --> 00:25:15,235
+Pare de tentar nos assustar.
+Vamos.
+
+338
+00:25:16,191 --> 00:25:17,767
+Certo.
+
+339
+00:25:21,770 --> 00:25:24,408
+"Excelsior"!
+
+340
+00:25:31,106 --> 00:25:34,510
+Como uma garota linda assim
+acaba em uma espelunca dessa?
+
+341
+00:25:35,998 --> 00:25:37,900
+Um homem me tratou mal.
+
+342
+00:25:39,147 --> 00:25:41,391
+Então tem um péssimo gosto
+para homens.
+
+343
+00:25:41,974 --> 00:25:43,799
+Ele não é tão ruim.
+
+344
+00:25:44,862 --> 00:25:46,725
+Tem mau temperamento.
+
+345
+00:25:46,725 --> 00:25:48,813
+Mas no fundo, ele é fofo.
+
+346
+00:25:51,066 --> 00:25:53,565
+Na verdade, ele não é
+como ninguém que já conheci.
+
+347
+00:25:56,030 --> 00:25:58,296
+Todos os meus amigos
+são lutadores.
+
+348
+00:26:00,944 --> 00:26:03,155
+Aí chega esse cara...
+
+349
+00:26:04,092 --> 00:26:07,537
+que passa a vida evitando lutar
+pois sabe que vai vencê-las.
+
+350
+00:26:07,537 --> 00:26:09,523
+Ele parece incrível.
+
+351
+00:26:09,924 --> 00:26:11,524
+Ele também é
+um grande idiota.
+
+352
+00:26:12,987 --> 00:26:14,673
+Garotas amam isso.
+
+353
+00:26:16,303 --> 00:26:18,111
+Então o que acha?
+Devo...
+
+354
+00:26:18,418 --> 00:26:21,093
+Esquecer
+ou correr atrás dele?
+
+355
+00:26:21,877 --> 00:26:23,825
+Corra atrás dele, certo?
+
+356
+00:26:23,825 --> 00:26:26,934
+Ou ele... ele foi...
+o que ele fez que foi tão...
+
+357
+00:26:27,666 --> 00:26:29,092
+errado para você?
+
+358
+00:26:29,092 --> 00:26:30,492
+Ele não fez nada.
+
+359
+00:26:32,490 --> 00:26:34,534
+Mas nunca diga nunca.
+
+360
+00:26:38,730 --> 00:26:41,494
+- É legal.
+- O quê?
+
+361
+00:26:41,494 --> 00:26:43,982
+- Você e a Romanoff.
+- Não, isso foi...
+
+362
+00:26:43,982 --> 00:26:46,811
+Tudo bem. Vocês não estão
+infringindo nenhuma lei.
+
+363
+00:26:46,811 --> 00:26:50,860
+É só que ela não é
+a pessoa mais aberta do mundo.
+
+364
+00:26:50,860 --> 00:26:52,996
+Com você ela parece
+ficar muito relaxada.
+
+365
+00:26:52,996 --> 00:26:56,274
+Não, Natasha...
+Ela só gosta de flertar.
+
+366
+00:26:56,587 --> 00:26:59,488
+Já a vi flertar.
+De perto.
+
+367
+00:26:59,837 --> 00:27:01,441
+Não é assim.
+
+368
+00:27:02,909 --> 00:27:05,866
+Olha...
+Como a maior autoridade...
+
+369
+00:27:05,866 --> 00:27:07,767
+de esperar por alguém
+tempo demais...
+
+370
+00:27:07,767 --> 00:27:11,623
+Não espere.
+Vocês merecem ser felizes.
+
+371
+00:27:16,687 --> 00:27:18,409
+O que quis dizer
+com "de perto"?
+
+372
+00:27:19,507 --> 00:27:22,525
+- É um truque.
+- Não, é mais que isso.
+
+373
+00:27:22,525 --> 00:27:26,463
+"Aquele que for digno
+possuirá o poder."
+
+374
+00:27:26,463 --> 00:27:27,969
+Qual é, cara!
+É um truque.
+
+375
+00:27:27,969 --> 00:27:29,935
+Por favor,
+fiques à vontade.
+
+376
+00:27:31,575 --> 00:27:32,975
+- Mesmo?
+- Sim.
+
+377
+00:27:33,903 --> 00:27:35,475
+- Isso vai ser bom.
+- Clint...
+
+378
+00:27:35,475 --> 00:27:37,876
+Sua semana foi difícil,
+não vamos zoá-lo
+
+379
+00:27:37,876 --> 00:27:40,176
+- se não conseguir levantar.
+- Já vi isso antes.
+
+380
+00:27:43,344 --> 00:27:45,881
+Ainda não sei
+como você faz.
+
+381
+00:27:45,881 --> 00:27:49,141
+- Está sentindo a zoeira?
+- Por favor, Stark, tente.
+
+382
+00:27:52,711 --> 00:27:55,215
+Nunca fugi
+de um desafio justo.
+
+383
+00:27:56,067 --> 00:27:57,528
+É física.
+
+384
+00:27:57,528 --> 00:28:00,383
+Se eu levantar,
+vou poder governar Asgard?
+
+385
+00:28:00,383 --> 00:28:01,784
+Sim, é claro.
+
+386
+00:28:01,784 --> 00:28:04,843
+Minhas leis serão...
+muito divertidas.
+
+387
+00:28:08,963 --> 00:28:10,537
+Já volto.
+
+388
+00:28:17,784 --> 00:28:20,019
+- Você está puxando?
+- Somos uma equipe?
+
+389
+00:28:20,019 --> 00:28:22,409
+- Finja, ao menos! Puxe!
+- Tá legal!
+
+390
+00:28:32,597 --> 00:28:34,197
+<i>Vai nessa, Steve.
+Sem pressão.</i>
+
+391
+00:28:37,342 --> 00:28:38,748
+<i>Vamos lá, Cap.</i>
+
+392
+00:28:47,252 --> 00:28:48,652
+Nada.
+
+393
+00:28:51,233 --> 00:28:54,012
+- E aí, Viúva?
+- Não quero brincar.
+
+394
+00:28:54,012 --> 00:28:56,373
+<i>Com todo respeito
+àquele que não quer ser rei,</i>
+
+395
+00:28:56,373 --> 00:28:58,074
+- mas há um truque.
+- Tem o cacete.
+
+396
+00:28:58,074 --> 00:29:00,475
+- Steve, olha um palavrão.
+- Contou para todos?
+
+397
+00:29:00,475 --> 00:29:02,948
+O cabo tem um sensor?
+Tipo, trava de segurança?
+
+398
+00:29:02,948 --> 00:29:06,430
+Quem tiver as digitais do Thor,
+pode levantar o martelo.
+
+399
+00:29:06,430 --> 00:29:10,209
+Sim, é uma teoria
+muito interessante.
+
+400
+00:29:10,209 --> 00:29:11,810
+Ou tem uma mais simples...
+
+401
+00:29:13,047 --> 00:29:14,796
+Vós não sois dignos.
+
+402
+00:29:14,796 --> 00:29:16,197
+- Tá.
+- Valeu.
+
+403
+00:29:31,070 --> 00:29:32,849
+<i>Não.</i>
+
+404
+00:29:34,621 --> 00:29:36,892
+<i>Como podem ser dignos?</i>
+
+405
+00:29:38,066 --> 00:29:40,169
+<i>Vocês são assassinos.</i>
+
+406
+00:29:40,169 --> 00:29:41,656
+- Stark?
+- J.A.R.V.I.S.?
+
+407
+00:29:41,656 --> 00:29:43,692
+<i>Perdoem-me,
+estava dormindo.</i>
+
+408
+00:29:44,252 --> 00:29:46,271
+<i>Ou estava sonhando acordado?</i>
+
+409
+00:29:46,672 --> 00:29:49,165
+Reinicie o sistema
+do traje com defeito.
+
+410
+00:29:49,165 --> 00:29:52,696
+<i>Era um sonho terrível
+no qual eu estava preso...</i>
+
+411
+00:29:55,064 --> 00:29:56,689
+<i>por cordões.</i>
+
+412
+00:29:57,363 --> 00:29:59,458
+<i>Eu tive que matar
+o outro cara.</i>
+
+413
+00:29:59,711 --> 00:30:02,131
+- Ele era um cara legal.
+- Matou alguém?
+
+414
+00:30:02,131 --> 00:30:04,184
+No início,
+não era minha escolha.
+
+415
+00:30:04,184 --> 00:30:08,185
+Mas no mundo real
+as escolhas são mais cruéis.
+
+416
+00:30:08,185 --> 00:30:09,657
+Quem te enviou?
+
+417
+00:30:09,657 --> 00:30:12,455
+<i>Eu vejo uma armadura
+em volta do mundo.</i>
+
+418
+00:30:13,655 --> 00:30:15,973
+- Ultron.
+- Em carne e osso.
+
+419
+00:30:15,973 --> 00:30:18,254
+Não, ainda não.
+
+420
+00:30:18,254 --> 00:30:21,224
+Não nesta... crisálida.
+
+421
+00:30:21,224 --> 00:30:22,655
+Mas estou pronto.
+
+422
+00:30:23,639 --> 00:30:25,204
+Eu estou em uma missão.
+
+423
+00:30:25,724 --> 00:30:27,133
+Que missão?
+
+424
+00:30:27,654 --> 00:30:29,154
+Paz para o nosso tempo.
+
+425
+00:30:53,000 --> 00:30:54,626
+- Desculpe-me.
+- Não fique verde.
+
+426
+00:30:54,626 --> 00:30:56,027
+Não vou ficar.
+
+427
+00:31:27,853 --> 00:31:29,252
+- Stark!
+- Viemos ajudar.
+
+428
+00:31:29,252 --> 00:31:31,497
+- Um segundo. Um segundo.
+- Viemos ajudar.
+
+429
+00:31:40,403 --> 00:31:41,803
+Thor!
+
+430
+00:31:45,093 --> 00:31:46,852
+Achei onde desliga.
+
+431
+00:31:50,752 --> 00:31:52,152
+Capitão!
+
+432
+00:31:58,481 --> 00:32:00,152
+Isso foi dramático.
+
+433
+00:32:01,152 --> 00:32:03,477
+Desculpem-me,
+vocês têm boas intenções.
+
+434
+00:32:03,477 --> 00:32:05,822
+Só não pensaram direito.
+
+435
+00:32:06,823 --> 00:32:10,860
+<i>Vocês querem proteger o mundo
+mas não querem que ele mude.</i>
+
+436
+00:32:11,251 --> 00:32:14,822
+<i>Como a humanidade será salva
+se não for permitida...</i>
+
+437
+00:32:14,822 --> 00:32:16,951
+<i>que evolua?</i>
+
+438
+00:32:18,551 --> 00:32:22,251
+Com elas?
+Essas marionetes.
+
+439
+00:32:24,464 --> 00:32:27,265
+Só há um caminho para a paz.
+
+440
+00:32:28,301 --> 00:32:30,470
+A extinção dos Vingadores.
+
+441
+00:32:36,935 --> 00:32:41,351
+<i>Eu tinha cordões
+mas agora sou livre.</i>
+
+442
+00:32:45,851 --> 00:32:50,148
+<i>Não há cordões em mim.</i>
+
+443
+00:32:50,148 --> 00:32:53,449
+<i>Não há cordões...</i>
+
+444
+00:32:59,124 --> 00:33:00,951
+Perdemos
+todo o nosso trabalho.
+
+445
+00:33:01,350 --> 00:33:03,937
+Ultron levou tudo
+e usou a internet para fugir.
+
+446
+00:33:03,937 --> 00:33:06,439
+- Ultron.
+- Esteve em contato com tudo.
+
+447
+00:33:06,439 --> 00:33:08,350
+Arquivos,
+câmaras de vigilância.
+
+448
+00:33:08,350 --> 00:33:11,095
+Talvez nos conheça melhor
+do que nós mesmos.
+
+449
+00:33:11,095 --> 00:33:13,495
+Ele está nos arquivos de vocês,
+na internet.
+
+450
+00:33:13,495 --> 00:33:16,650
+E se ele decidir acessar
+algo mais... interessante?
+
+451
+00:33:16,650 --> 00:33:18,995
+- Códigos nucleares.
+- Códigos nucleares.
+
+452
+00:33:18,995 --> 00:33:20,720
+Precisamos fazer
+umas ligações.
+
+453
+00:33:20,720 --> 00:33:22,430
+Se ainda pudermos.
+
+454
+00:33:22,430 --> 00:33:24,642
+Caramba. Ele disse
+que nos queria morto.
+
+455
+00:33:24,642 --> 00:33:27,349
+Ele não disse mortos,
+mas extintos.
+
+456
+00:33:27,349 --> 00:33:29,263
+Ele também disse
+que matou alguém.
+
+457
+00:33:29,263 --> 00:33:31,219
+Não havia mais alguém
+no prédio.
+
+458
+00:33:31,219 --> 00:33:32,839
+Havia sim.
+
+459
+00:33:44,999 --> 00:33:46,535
+Isso é loucura.
+
+460
+00:33:46,535 --> 00:33:48,794
+J.A.R.V.I.S. era
+a primeira linha de defesa.
+
+461
+00:33:48,794 --> 00:33:50,799
+Tentou desativar Ultron,
+faz sentido.
+
+462
+00:33:50,799 --> 00:33:53,801
+Não. Ultron poderia ter
+assimilado J.A.R.V.I.S.
+
+463
+00:33:53,801 --> 00:33:56,824
+Isso não é estratégia,
+isso é...
+
+464
+00:33:57,189 --> 00:33:58,598
+raiva.
+
+465
+00:34:00,767 --> 00:34:02,959
+- E está se espalhando.
+- Fale com palavras.
+
+466
+00:34:02,959 --> 00:34:05,419
+Há mais do que palavras
+para te descrever, Stark.
+
+467
+00:34:05,419 --> 00:34:07,482
+Thor!
+O Legionário?
+
+468
+00:34:09,609 --> 00:34:13,071
+O rastro esfriou a uns 160km
+indo ao norte.
+
+469
+00:34:13,488 --> 00:34:15,030
+E ele está com o cetro.
+
+470
+00:34:15,030 --> 00:34:17,221
+Teremos que recuperá-lo,
+de novo.
+
+471
+00:34:17,221 --> 00:34:18,939
+O gênio saiu da garrafa.
+
+472
+00:34:18,939 --> 00:34:21,985
+- Está vivo e se chama Ultron.
+- Eu não entendo.
+
+473
+00:34:22,579 --> 00:34:24,448
+Você construiu
+esse programa.
+
+474
+00:34:26,166 --> 00:34:27,948
+Por que ele quer nos matar?
+
+475
+00:34:34,299 --> 00:34:35,968
+Achas isso engraçado?
+
+476
+00:34:36,343 --> 00:34:37,744
+Não.
+
+477
+00:34:38,262 --> 00:34:40,748
+Provavelmente não é,
+certo?
+
+478
+00:34:41,390 --> 00:34:44,907
+Isso é muito terrível.
+Isso é tão...
+
+479
+00:34:44,907 --> 00:34:47,154
+- É muito terrível.
+- Teria sido evitado...
+
+480
+00:34:47,154 --> 00:34:48,937
+se não fizesses
+o que não entendes.
+
+481
+00:34:48,937 --> 00:34:52,247
+Sinto muito
+se isso me diverte.
+
+482
+00:34:52,247 --> 00:34:54,702
+É engraçado não entenderem
+porque precisamos.
+
+483
+00:34:54,702 --> 00:34:56,845
+Tony, pode não ser
+a hora certa.
+
+484
+00:34:56,845 --> 00:34:59,114
+Sério?
+É isso mesmo?
+
+485
+00:34:59,114 --> 00:35:02,220
+Você sempre rola e deita
+quando alguém rosna?
+
+486
+00:35:02,220 --> 00:35:04,021
+Só quando criamos
+robôs homicidas.
+
+487
+00:35:04,021 --> 00:35:05,340
+Mas não o criamos.
+
+488
+00:35:05,340 --> 00:35:07,661
+Nem estávamos perto
+de uma interface. Estávamos?
+
+489
+00:35:07,661 --> 00:35:09,083
+Você fez algo certo.
+
+490
+00:35:09,083 --> 00:35:10,710
+E fez bem aqui.
+
+491
+00:35:10,710 --> 00:35:13,302
+Os Vingadores deveriam
+ser diferentes da S.H.I.E.L.D.
+
+492
+00:35:13,302 --> 00:35:16,251
+Lembram-se que levei uma bomba
+para um buraco de minhoca?
+
+493
+00:35:16,251 --> 00:35:18,202
+- Não mesmo.
+- E salvei Nova York?
+
+494
+00:35:18,202 --> 00:35:19,808
+- Não me recordo.
+- Lembram-se?
+
+495
+00:35:19,808 --> 00:35:23,905
+Um exército alienígena atacou
+por um buraco no espaço.
+
+496
+00:35:23,905 --> 00:35:26,125
+Estávamos 100 metros abaixo.
+
+497
+00:35:28,102 --> 00:35:29,687
+Somos os Vingadores.
+
+498
+00:35:29,687 --> 00:35:32,607
+Podemos acabar o dia todo
+com traficantes de armas,
+
+499
+00:35:32,607 --> 00:35:36,435
+mas o que aconteceu lá em cima
+seria o fim do jogo.
+
+500
+00:35:37,361 --> 00:35:39,279
+Como vocês venceriam aquilo?
+
+501
+00:35:40,046 --> 00:35:41,446
+Juntos.
+
+502
+00:35:44,826 --> 00:35:46,344
+Perderemos.
+
+503
+00:35:47,245 --> 00:35:49,289
+Faremos isso juntos também.
+
+504
+00:35:52,292 --> 00:35:54,878
+<i>Thor está certo.
+Ultron está nos desafiando.</i>
+
+505
+00:35:55,096 --> 00:35:58,046
+Eu gostaria de achá-lo
+antes de estar pronto para nós.
+
+506
+00:35:58,507 --> 00:36:02,076
+O mundo é um lugar grande.
+Vamos torná-lo menor.
+
+507
+00:36:25,441 --> 00:36:27,785
+Fale.
+E se desperdiçar nosso tempo...
+
+508
+00:36:27,785 --> 00:36:31,414
+Sabia que essa igreja fica
+exatamente no centro da cidade?
+
+509
+00:36:32,195 --> 00:36:33,638
+Exigência dos sacerdotes...
+
+510
+00:36:33,638 --> 00:36:37,336
+para todos ficarem
+igualmente próximos de Deus.
+
+511
+00:36:37,336 --> 00:36:40,985
+Gostei disso.
+A geometria da crença.
+
+512
+00:36:42,717 --> 00:36:45,928
+Quer saber porque não pode
+entrar na minha mente?
+
+513
+00:36:45,928 --> 00:36:47,430
+Às vezes, é difícil.
+
+514
+00:36:47,755 --> 00:36:51,025
+Mas cedo ou tarde
+todos os homens se revelam.
+
+515
+00:36:51,851 --> 00:36:53,728
+Tenho certeza que sim.
+
+516
+00:36:54,345 --> 00:36:57,397
+Mas você precisava
+de algo melhor que um homem.
+
+517
+00:36:57,744 --> 00:37:00,284
+Por isso que deixou Stark
+tomar o cetro.
+
+518
+00:37:00,284 --> 00:37:02,402
+Eu não esperava isso.
+
+519
+00:37:03,862 --> 00:37:06,323
+Mas eu vi o medo do Stark.
+
+520
+00:37:06,323 --> 00:37:09,826
+Eu sabia que o controlaria
+e o faria se autodestruir.
+
+521
+00:37:09,826 --> 00:37:12,744
+Todo mundo sempre cria
+aquilo que teme.
+
+522
+00:37:13,079 --> 00:37:16,166
+Pessoas pacíficas
+criaram máquinas de guerra.
+
+523
+00:37:16,166 --> 00:37:18,585
+Invasores criaram
+os Vingadores.
+
+524
+00:37:18,585 --> 00:37:20,324
+Pessoas criam...
+
+525
+00:37:21,479 --> 00:37:23,113
+pessoas menores.
+
+526
+00:37:24,173 --> 00:37:27,032
+Crianças, esqueci a palavra.
+
+527
+00:37:27,032 --> 00:37:28,443
+<i>Crianças...</i>
+
+528
+00:37:28,443 --> 00:37:32,343
+feitas para substituí-las,
+para levá-las...
+
+529
+00:37:33,143 --> 00:37:35,976
+- ao fim.
+- É por isso que você veio?
+
+530
+00:37:36,518 --> 00:37:37,978
+Acabar com os Vingadores?
+
+531
+00:37:37,978 --> 00:37:39,855
+Eu vim para salvar o mundo.
+
+532
+00:37:40,856 --> 00:37:42,341
+Mas também...
+
+533
+00:37:42,566 --> 00:37:43,966
+Sim.
+
+534
+00:37:47,446 --> 00:37:49,239
+Partiremos logo.
+
+535
+00:37:49,239 --> 00:37:50,743
+Isso é um começo.
+
+536
+00:37:50,743 --> 00:37:52,993
+Mas precisamos de algo
+para trabalharmos.
+
+537
+00:37:52,993 --> 00:37:55,203
+- Todos eles são...
+- Eu.
+
+538
+00:37:55,203 --> 00:37:57,503
+Tenho algo que os Vingadores
+jamais terão.
+
+539
+00:37:57,503 --> 00:37:58,923
+Harmonia.
+
+540
+00:37:58,923 --> 00:38:01,123
+São discordantes
+e desunidos.
+
+541
+00:38:01,123 --> 00:38:03,298
+Stark já está voltando
+uns contra os outros.
+
+542
+00:38:03,298 --> 00:38:05,943
+Quando você entrar
+na mente dos que restarem...
+
+543
+00:38:05,943 --> 00:38:07,825
+O nosso plano
+não é matá-los.
+
+544
+00:38:07,825 --> 00:38:09,843
+E convertê-los em mártires?
+
+545
+00:38:10,144 --> 00:38:11,929
+Devem ser pacientes.
+
+546
+00:38:11,929 --> 00:38:13,472
+Devem ver a imagem inteira.
+
+547
+00:38:13,472 --> 00:38:15,242
+Não vejo a imagem inteira.
+
+548
+00:38:15,765 --> 00:38:17,442
+Vejo uma imagem menor.
+
+549
+00:38:17,967 --> 00:38:19,942
+E a pego e olho para ela.
+
+550
+00:38:20,242 --> 00:38:21,764
+Todos os dias.
+
+551
+00:38:21,764 --> 00:38:23,465
+Perderam os pais
+em um bombardeio.
+
+552
+00:38:23,465 --> 00:38:24,832
+Vi os registros.
+
+553
+00:38:24,832 --> 00:38:26,452
+Os registros não são
+a imagem.
+
+554
+00:38:26,452 --> 00:38:29,332
+- Pietro?
+- Não. Por favor.
+
+555
+00:38:31,406 --> 00:38:34,998
+Tínhamos 10 anos
+e nós quatro jantávamos.
+
+556
+00:38:35,992 --> 00:38:38,437
+O primeiro míssil atingiu
+dois andares abaixo...
+
+557
+00:38:38,437 --> 00:38:41,748
+e fez um buraco no chão.
+Enorme.
+
+558
+00:38:43,281 --> 00:38:44,802
+Nossos pais caíram...
+
+559
+00:38:45,441 --> 00:38:48,746
+e todo o edifício
+começou a desmoronar.
+
+560
+00:38:49,241 --> 00:38:50,641
+Eu a agarrei...
+
+561
+00:38:50,924 --> 00:38:53,868
+fomos para debaixo da cama
+e o segundo míssil atingiu.
+
+562
+00:38:53,868 --> 00:38:55,841
+Mas esse não explodiu.
+
+563
+00:38:59,599 --> 00:39:01,547
+Ficou parado nos escombros...
+
+564
+00:39:02,741 --> 00:39:04,710
+a um metro
+de nossos rostos.
+
+565
+00:39:06,241 --> 00:39:09,791
+E do lado do míssil,
+estava escrito uma palavra.
+
+566
+00:39:09,791 --> 00:39:11,201
+Stark.
+
+567
+00:39:13,146 --> 00:39:15,124
+Ficamos presos por dois dias.
+
+568
+00:39:15,782 --> 00:39:19,645
+A cada tentativa de nos salvar,
+a cada mexida nos escombros...
+
+569
+00:39:19,645 --> 00:39:21,746
+Eu pensava:
+"Isso vai detonar."
+
+570
+00:39:25,125 --> 00:39:29,421
+Esperamos dois dias
+para Tony Stark nos matar.
+
+571
+00:39:31,340 --> 00:39:33,040
+Sabemos quem eles são.
+
+572
+00:39:34,383 --> 00:39:38,346
+Eu não entendia porque só vocês
+sobreviveram aos experimentos.
+
+573
+00:39:39,013 --> 00:39:40,556
+Agora eu sei.
+
+574
+00:39:41,057 --> 00:39:42,516
+Faremos a coisa certa.
+
+575
+00:39:42,840 --> 00:39:45,019
+Você e eu
+podemos machucá-los.
+
+576
+00:39:45,790 --> 00:39:47,290
+Mas você...
+
+577
+00:39:47,540 --> 00:39:49,240
+vai despedaçá-los.
+
+578
+00:39:51,040 --> 00:39:52,540
+<i>De dentro para fora.</i>
+
+579
+00:39:59,269 --> 00:40:01,773
+Está pelo mundo todo.
+Laboratório de robótica.
+
+580
+00:40:01,773 --> 00:40:04,275
+Depósito de armas,
+de propulsores de jato.
+
+581
+00:40:04,275 --> 00:40:08,589
+Há relatos de homens de metal
+entrando e esvaziando o local.
+
+582
+00:40:08,589 --> 00:40:11,048
+- Mortes?
+- Só quando os enfrentavam.
+
+583
+00:40:11,048 --> 00:40:13,218
+A maioria foi deixada
+em estado catatônico...
+
+584
+00:40:13,218 --> 00:40:15,339
+falando de memórias antigas,
+piores medos...
+
+585
+00:40:15,339 --> 00:40:17,048
+e algo rápido demais
+para se ver.
+
+586
+00:40:17,443 --> 00:40:18,908
+Os Maximoff.
+
+587
+00:40:18,908 --> 00:40:21,018
+Faz sentido Ultron
+tê-los procurado.
+
+588
+00:40:21,018 --> 00:40:23,304
+- Tem algo em comum.
+- Não mais.
+
+589
+00:40:25,258 --> 00:40:27,234
+PAZ
+
+590
+00:40:27,743 --> 00:40:29,863
+Negativo.
+Estou com você.
+
+591
+00:40:31,140 --> 00:40:32,872
+- Sim, senhor.
+- Barton.
+
+592
+00:40:32,872 --> 00:40:34,293
+Conseguimos algo.
+
+593
+00:40:35,603 --> 00:40:36,912
+Quem era?
+
+594
+00:40:37,401 --> 00:40:38,711
+Namorada.
+
+595
+00:40:41,544 --> 00:40:43,864
+- O que é isso?
+- Uma mensagem.
+
+596
+00:40:43,864 --> 00:40:45,562
+Ultron matou Strucker.
+
+597
+00:40:46,550 --> 00:40:49,557
+Ele pichou a cena do crime.
+Só para nós.
+
+598
+00:40:49,557 --> 00:40:51,199
+É uma cortina de fumaça.
+
+599
+00:40:51,199 --> 00:40:53,408
+Por que mandar mensagem
+depois do discurso?
+
+600
+00:40:53,408 --> 00:40:56,161
+Ele sabia de algo que Ultron
+não quer que saibamos.
+
+601
+00:40:56,161 --> 00:40:57,471
+Aposto que...
+
+602
+00:40:57,471 --> 00:41:00,354
+É. Tudo que tínhamos
+do Strucker foi apagado.
+
+603
+00:41:00,354 --> 00:41:01,053
+Não tudo.
+
+604
+00:41:02,396 --> 00:41:03,972
+Associados conhecidos.
+
+605
+00:41:04,616 --> 00:41:06,392
+Ele devia ter vários amigos.
+
+606
+00:41:06,392 --> 00:41:08,157
+Essas pessoas
+são todas horríveis.
+
+607
+00:41:08,157 --> 00:41:10,273
+Espere.
+Conheço esse cara.
+
+608
+00:41:12,326 --> 00:41:14,524
+Faz tempo que ele negocia
+na costa africana.
+
+609
+00:41:14,524 --> 00:41:16,022
+Mercado negro de armas.
+
+610
+00:41:16,022 --> 00:41:17,865
+Existem congressos, certo?
+
+611
+00:41:17,865 --> 00:41:20,163
+Lá eu conhecia pessoas.
+Não vendi nada para ele.
+
+612
+00:41:20,163 --> 00:41:22,513
+Ele mencionou algo
+que iria virar o jogo.
+
+613
+00:41:22,513 --> 00:41:24,324
+Estava muito entusiasmado
+com isso.
+
+614
+00:41:24,768 --> 00:41:27,355
+- Que isso?
+- Tatuagem. Acho que não tinha.
+
+615
+00:41:27,355 --> 00:41:29,608
+Aquilo é tatuagem.
+Isso é uma marca.
+
+616
+00:41:31,179 --> 00:41:33,564
+É uma palavra
+em um dialeto africano...
+
+617
+00:41:33,564 --> 00:41:35,165
+que significa ladrão,
+
+618
+00:41:35,165 --> 00:41:36,973
+de um jeito
+muito menos amigável.
+
+619
+00:41:36,973 --> 00:41:38,883
+- Qual dialeto?
+- "Wakanada".
+
+620
+00:41:39,571 --> 00:41:40,881
+Não. Wakanda.
+
+621
+00:41:42,040 --> 00:41:44,647
+Se ele saiu de Wakanda
+com algum produto de lá...
+
+622
+00:41:44,647 --> 00:41:46,358
+Achei que seu pai
+tinha o último.
+
+623
+00:41:46,358 --> 00:41:48,722
+Não entendi.
+O que saiu de Wakanda?
+
+624
+00:41:50,578 --> 00:41:52,143
+O metal mais forte da Terra.
+
+625
+00:41:53,952 --> 00:41:55,373
+Onde esse cara está agora?
+
+626
+00:41:57,271 --> 00:42:00,972
+ÁREA DE SUCATA
+COSTA AFRICANA
+
+627
+00:42:20,727 --> 00:42:22,670
+Não diga
+que seus homens se enganaram!
+
+628
+00:42:22,670 --> 00:42:25,497
+Mandei a vocês 6 rastreadores
+de calor de curto alcance...
+
+629
+00:42:25,497 --> 00:42:27,270
+e recebo um monte
+de ferrugem.
+
+630
+00:42:28,388 --> 00:42:29,996
+Quero uma proposta melhor.
+
+631
+00:42:29,996 --> 00:42:33,557
+Ou o próximo míssil para vocês
+irá chegar aí bem mais rápido.
+
+632
+00:42:35,002 --> 00:42:36,891
+E agora, ministro?
+
+633
+00:42:37,117 --> 00:42:38,417
+Como vai ser?
+
+634
+00:43:09,099 --> 00:43:10,427
+É.
+
+635
+00:43:10,746 --> 00:43:12,116
+Os aprimorados.
+
+636
+00:43:12,678 --> 00:43:14,728
+A menina dos olhos
+do Strucker.
+
+637
+00:43:17,296 --> 00:43:18,602
+Querem um doce?
+
+638
+00:43:20,588 --> 00:43:22,717
+Sinto muito pelo Strucker.
+
+639
+00:43:23,375 --> 00:43:26,579
+<i>Mas ele sabia o tipo de mundo
+que ajudava a criar.</i>
+
+640
+00:43:27,011 --> 00:43:29,417
+Vida humana
+não é um bom mercado.
+
+641
+00:43:31,854 --> 00:43:33,322
+Vocês não sabiam?
+
+642
+00:43:34,056 --> 00:43:35,556
+É a primeira vez de vocês...
+
+643
+00:43:35,847 --> 00:43:37,606
+<i>intimidando alguém?</i>
+
+644
+00:43:37,606 --> 00:43:39,095
+Receio...
+
+645
+00:43:39,656 --> 00:43:43,021
+- não ter sentido medo.
+- Todos têm medo de algo.
+
+646
+00:43:43,021 --> 00:43:44,327
+De chocos.
+
+647
+00:43:45,449 --> 00:43:46,917
+Peixes do mar profundo.
+
+648
+00:43:46,917 --> 00:43:48,892
+Emitem luzes que piscam.
+
+649
+00:43:49,949 --> 00:43:52,430
+Para hipnotizar as presas.
+Então eles...
+
+650
+00:43:53,145 --> 00:43:55,282
+Vi um documentário.
+Foi aterrorizante.
+
+651
+00:44:00,840 --> 00:44:03,149
+Então se vai manipular
+o meu cérebro...
+
+652
+00:44:04,413 --> 00:44:06,636
+e me fazer ver
+um choco gigante,
+
+653
+00:44:06,884 --> 00:44:08,945
+então saberei
+que não vieram aqui negociar,
+
+654
+00:44:08,945 --> 00:44:11,373
+e que não estão
+no comando.
+
+655
+00:44:11,373 --> 00:44:13,186
+E só negocio...
+
+656
+00:44:13,770 --> 00:44:15,627
+com o homem no comando.
+
+657
+00:44:20,418 --> 00:44:23,062
+Não há um homem
+no comando.
+
+658
+00:44:25,884 --> 00:44:27,449
+Vamos falar de negócios.
+
+659
+00:44:40,711 --> 00:44:44,358
+"Sobre esta pedra,
+construirei minha igreja."
+
+660
+00:44:45,702 --> 00:44:47,278
+Vibranium.
+
+661
+00:44:48,119 --> 00:44:52,350
+Sabe, consegui isso
+a um grande custo pessoal.
+
+662
+00:44:52,727 --> 00:44:54,238
+Vale bilhões.
+
+663
+00:44:58,800 --> 00:45:00,311
+Agora você também.
+
+664
+00:45:01,066 --> 00:45:03,063
+Está tudo
+nos seus fundos fictícios?
+
+665
+00:45:03,063 --> 00:45:05,469
+Finanças são tão estranhas.
+
+666
+00:45:06,297 --> 00:45:07,704
+Mas sempre digo...
+
+667
+00:45:07,704 --> 00:45:10,004
+mantenha seus amigos ricos,
+seus inimigos ricos,
+
+668
+00:45:10,004 --> 00:45:12,493
+e espere para saber
+quem é quem.
+
+669
+00:45:14,404 --> 00:45:15,831
+Stark?
+
+670
+00:45:17,046 --> 00:45:18,362
+O quê?
+
+671
+00:45:18,362 --> 00:45:20,391
+Tony Stark
+costumava dizer isso...
+
+672
+00:45:21,267 --> 00:45:22,884
+para mim.
+
+673
+00:45:22,884 --> 00:45:24,573
+Você é dele?
+
+674
+00:45:24,573 --> 00:45:27,056
+O quê?! Eu não sou...
+
+675
+00:45:28,607 --> 00:45:29,963
+Não sou.
+
+676
+00:45:29,963 --> 00:45:31,998
+Acha que sou
+uma das marionetes do Stark,
+
+677
+00:45:31,998 --> 00:45:33,599
+e seus homens vazios?
+
+678
+00:45:33,599 --> 00:45:36,014
+Olhe para mim!
+Pareço com o Homem de Ferro?
+
+679
+00:45:36,014 --> 00:45:37,471
+Stark não é nada!
+
+680
+00:45:38,766 --> 00:45:40,838
+Desculpe-me. Desculpe-me.
+
+681
+00:45:40,838 --> 00:45:43,387
+Tenho certeza que ficará bem.
+Desculpe-me.
+
+682
+00:45:43,387 --> 00:45:45,188
+É que não entendo...
+
+683
+00:45:45,188 --> 00:45:48,017
+Não me compare com Stark!
+
+684
+00:45:49,841 --> 00:45:53,111
+Isso é me ofender!
+Stark é uma doença!
+
+685
+00:45:53,111 --> 00:45:54,902
+<i>Ah, Júnior.</i>
+
+686
+00:45:56,866 --> 00:45:58,864
+Vai partir o coração do papai.
+
+687
+00:45:59,879 --> 00:46:01,443
+Se eu precisar...
+
+688
+00:46:03,072 --> 00:46:04,799
+Ninguém tem que partir nada.
+
+689
+00:46:04,799 --> 00:46:06,698
+Com certeza
+você nunca fez omelete.
+
+690
+00:46:06,698 --> 00:46:08,414
+Ele tirou as palavras
+da minha boca.
+
+691
+00:46:09,224 --> 00:46:11,737
+É engraçado, Sr. Stark.
+
+692
+00:46:12,822 --> 00:46:14,538
+Está confortável?
+
+693
+00:46:16,144 --> 00:46:18,901
+- Como nos velhos tempos?
+- Isso nunca foi minha vida.
+
+694
+00:46:18,901 --> 00:46:21,594
+- Vocês dois podem sair dessa.
+- Nós vamos.
+
+695
+00:46:21,594 --> 00:46:22,910
+Sei que sofreram.
+
+696
+00:46:23,903 --> 00:46:25,619
+Capitão América.
+
+697
+00:46:25,858 --> 00:46:28,209
+O homem justo de Deus.
+
+698
+00:46:28,522 --> 00:46:31,566
+Fingindo que pode viver
+sem uma guerra.
+
+699
+00:46:31,566 --> 00:46:34,177
+Não posso vomitar
+fisicamente pela boca...
+
+700
+00:46:34,177 --> 00:46:37,146
+Se acreditas na paz,
+deixe-nos mantê-la.
+
+701
+00:46:37,146 --> 00:46:40,438
+Acho que confundem
+paz com calmaria.
+
+702
+00:46:40,438 --> 00:46:42,553
+Sei.
+E para o que é o vibranium?
+
+703
+00:46:42,553 --> 00:46:45,763
+Que bom que perguntou,
+pois queria esse tempo...
+
+704
+00:46:45,763 --> 00:46:47,813
+para explicar
+meu plano maligno.
+
+705
+00:47:07,311 --> 00:47:09,135
+- Atire neles.
+- Em quais?
+
+706
+00:47:09,135 --> 00:47:10,549
+Em todos eles!
+
+707
+00:48:00,582 --> 00:48:01,909
+Fique aí, garoto.
+
+708
+00:48:04,197 --> 00:48:06,584
+É hora dos jogos mentais.
+
+709
+00:48:07,900 --> 00:48:09,206
+Pessoal?
+
+710
+00:48:09,206 --> 00:48:10,695
+É Código Verde?
+
+711
+00:48:26,134 --> 00:48:27,580
+Thor, relatório.
+
+712
+00:48:27,580 --> 00:48:29,766
+A garota tentou invadir
+o meu cérebro.
+
+713
+00:48:29,766 --> 00:48:32,842
+Cuidado. Duvido que um humano
+consiga evitar.
+
+714
+00:48:33,317 --> 00:48:36,835
+Felizmente,
+sou poderoso.
+
+715
+00:48:56,078 --> 00:48:58,269
+Isso está indo muito bem.
+
+716
+00:49:09,974 --> 00:49:11,884
+Já passei por isso
+de controle mental.
+
+717
+00:49:12,607 --> 00:49:14,123
+Não sou fã disso.
+
+718
+00:49:20,771 --> 00:49:22,541
+Sim, é melhor correr.
+
+719
+00:49:24,548 --> 00:49:26,609
+<i>Alguém está de pé?
+Temos que ir.</i>
+
+720
+00:49:28,282 --> 00:49:29,609
+<i>Pessoal?</i>
+
+721
+00:49:47,441 --> 00:49:48,747
+De novo.
+
+722
+00:49:48,747 --> 00:49:50,085
+Vai machucá-las.
+
+723
+00:49:50,571 --> 00:49:52,394
+Só as frágeis.
+
+724
+00:49:52,837 --> 00:49:54,423
+Você é feita de marfim.
+
+725
+00:49:54,725 --> 00:49:57,529
+Vamos comemorar depois
+da cerimônia de graduação.
+
+726
+00:49:57,832 --> 00:49:59,278
+E se eu falhar?
+
+727
+00:50:04,382 --> 00:50:05,744
+Você nunca falha.
+
+728
+00:50:28,457 --> 00:50:30,487
+Está pronto
+para a nossa dança?
+
+729
+00:50:39,615 --> 00:50:43,455
+É ele?
+O primogênito de Odin?
+
+730
+00:50:43,455 --> 00:50:47,664
+- Heimdall, teus olhos...
+- Eles estão vendo tudo.
+
+731
+00:50:47,889 --> 00:50:51,107
+Eles estão vendo a ti
+levar-nos até Hel.
+
+732
+00:50:51,107 --> 00:50:52,556
+Acordes!
+
+733
+00:50:55,364 --> 00:50:59,409
+A guerra acabou, Steve.
+Podemos ir para casa.
+
+734
+00:51:00,846 --> 00:51:02,314
+Imagine.
+
+735
+00:51:11,149 --> 00:51:13,384
+Ainda posso salvá-los!
+
+736
+00:51:13,384 --> 00:51:17,071
+Estamos todos mortos!
+Não consegues ver?!
+
+737
+00:51:21,083 --> 00:51:24,106
+És um destruidor,
+filho de Odin.
+
+738
+00:51:26,627 --> 00:51:29,461
+Vejas o que teu poder trará.
+
+739
+00:51:39,555 --> 00:51:41,215
+Desleixado.
+
+740
+00:51:41,509 --> 00:51:43,515
+Fingiu falhar.
+
+741
+00:51:44,347 --> 00:51:46,822
+A cerimônia é necessária...
+
+742
+00:51:47,165 --> 00:51:49,984
+para você assumir
+seu lugar no mundo.
+
+743
+00:51:49,984 --> 00:51:53,037
+- Não tenho um lugar no mundo.
+- Isso mesmo.
+
+744
+00:51:57,732 --> 00:52:00,211
+- O que posso fazer?
+- Está doendo.
+
+745
+00:52:01,059 --> 00:52:03,524
+Vou acabar com ele.
+Volto logo.
+
+746
+00:52:03,524 --> 00:52:05,198
+Não. Eu estou bem.
+
+747
+00:52:05,733 --> 00:52:07,334
+Eu quero...
+
+748
+00:52:09,457 --> 00:52:11,727
+Eu quero terminar o plano.
+
+749
+00:52:12,272 --> 00:52:14,305
+Quero o grandalhão.
+
+750
+00:52:25,029 --> 00:52:27,432
+O vibranium
+está indo embora.
+
+751
+00:52:27,432 --> 00:52:29,071
+E você não vai
+a lugar algum.
+
+752
+00:52:29,071 --> 00:52:32,078
+Claro que não.
+Eu já estou lá.
+
+753
+00:52:32,078 --> 00:52:34,287
+Você vai entender.
+Mas primeiro...
+
+754
+00:52:34,287 --> 00:52:36,246
+tem que dar um jeito
+no Dr. Banner.
+
+755
+00:52:50,154 --> 00:52:52,571
+Procure notícias.
+Palavra-chave: Hulk.
+
+756
+00:52:56,651 --> 00:52:59,085
+Natasha,
+é hora da canção de ninar.
+
+757
+00:52:59,085 --> 00:53:02,136
+Não vai rolar.
+Vai demorar um pouco.
+
+758
+00:53:02,371 --> 00:53:04,195
+<i>A equipe inteira caiu.</i>
+
+759
+00:53:04,670 --> 00:53:06,529
+<i>Não vai ter apoio aqui.</i>
+
+760
+00:53:07,029 --> 00:53:08,682
+Vou chamar a Veronica.
+
+761
+00:53:18,574 --> 00:53:21,385
+O que é isso?
+Precisamos de reforços!
+
+762
+00:54:00,514 --> 00:54:02,169
+<i>Por aqui! Rápido!</i>
+
+763
+00:54:41,051 --> 00:54:43,110
+Todos vocês, afastem-se!
+
+764
+00:54:49,500 --> 00:54:51,110
+<i>Está ouvindo?</i>
+
+765
+00:54:51,110 --> 00:54:53,721
+Aquela bruxinha
+está manipulando sua mente.
+
+766
+00:54:53,721 --> 00:54:56,178
+Você é mais forte
+e esperto que ela.
+
+767
+00:54:56,178 --> 00:54:57,986
+Você é Bruce Banner.
+
+768
+00:54:57,986 --> 00:55:00,002
+Certo, certo.
+Esquece o Bruce Fracote.
+
+769
+00:55:05,050 --> 00:55:06,459
+Tudo bem.
+
+770
+00:55:27,678 --> 00:55:30,727
+Pelas costas?
+Golpe sujo, Banner.
+
+771
+00:55:41,807 --> 00:55:43,454
+Veronica,
+dá uma mão aqui.
+
+772
+00:56:10,703 --> 00:56:12,725
+Dorme, dorme, dorme.
+
+773
+00:56:21,996 --> 00:56:24,223
+Certo, amigo.
+Vou tirá-lo da cidade.
+
+774
+00:56:25,671 --> 00:56:27,353
+Não por aí. Não por aí.
+
+775
+00:56:35,410 --> 00:56:37,761
+Vamos, Bruce!
+Colabore comigo!
+
+776
+00:56:51,151 --> 00:56:52,599
+Todos para fora!
+
+777
+00:56:58,700 --> 00:57:00,565
+Descendo!
+
+778
+00:57:09,307 --> 00:57:10,786
+Foi mal.
+
+779
+00:57:24,857 --> 00:57:26,666
+Quantidade de danos?
+
+780
+00:57:26,951 --> 00:57:29,753
+O que isso quer dizer?
+Preciso de uma ideia!
+
+781
+00:57:39,249 --> 00:57:40,650
+LIBERADO
+
+782
+00:57:40,650 --> 00:57:42,763
+Será que dá tempo
+de comprar esse prédio?
+
+783
+00:58:14,703 --> 00:58:16,529
+Vamos, vamos!
+
+784
+00:59:10,429 --> 00:59:12,874
+<i>Os noticiários amam vocês.</i>
+
+785
+00:59:13,552 --> 00:59:15,215
+<i>Mas só eles.</i>
+
+786
+00:59:15,215 --> 00:59:18,054
+Ainda não houve pedido oficial
+para a prisão de Banner,
+
+787
+00:59:18,054 --> 00:59:20,332
+<i>mas está sendo discutido.</i>
+
+788
+00:59:20,597 --> 00:59:23,224
+<i>- E a Fundação Stark?
+- Já está no local.</i>
+
+789
+00:59:23,224 --> 00:59:25,640
+<i>- Como está a equipe?
+- Estamos...</i>
+
+790
+00:59:26,459 --> 00:59:29,477
+Levamos uma surra.
+Mas vamos superar.
+
+791
+00:59:29,477 --> 00:59:32,129
+<i>Melhor não chamar
+a atenção por enquanto.</i>
+
+792
+00:59:32,129 --> 00:59:33,752
+<i>Vão para longe.</i>
+
+793
+00:59:34,728 --> 00:59:36,364
+Fugir e se esconder?
+
+794
+00:59:36,689 --> 00:59:41,177
+<i>Até encontrarmos o Ultron,
+não tenho muito a oferecer.</i>
+
+795
+00:59:41,693 --> 00:59:43,178
+Nem nós.
+
+796
+00:59:49,894 --> 00:59:53,143
+- Quer trocar?
+- Eu estou bem.
+
+797
+00:59:53,453 --> 00:59:55,501
+Se quiser descansar,
+é uma boa hora.
+
+798
+00:59:55,501 --> 00:59:59,305
+- Ainda falta um pouco.
+- Para chegar onde?
+
+799
+00:59:59,713 --> 01:00:01,192
+Até um refúgio.
+
+800
+01:00:26,956 --> 01:00:29,805
+- Que lugar é esse?
+- Um refúgio.
+
+801
+01:00:30,704 --> 01:00:32,105
+Tomara que seja.
+
+802
+01:00:37,103 --> 01:00:40,002
+Querida, cheguei.
+
+803
+01:00:42,652 --> 01:00:44,901
+Oi. Tenho companhia.
+
+804
+01:00:44,901 --> 01:00:47,251
+- Desculpe por não ligar antes.
+- Oi.
+
+805
+01:00:47,900 --> 01:00:51,949
+- Deve ser uma agente nova.
+- Cavalheiros, esta é a Laura.
+
+806
+01:00:53,049 --> 01:00:54,849
+Sei o nome de todos vocês.
+
+807
+01:00:57,948 --> 01:01:00,048
+- Aqui vem eles.
+- Papai!
+
+808
+01:01:00,048 --> 01:01:02,297
+Oi, amor.
+E aí, campeão?
+
+809
+01:01:02,297 --> 01:01:03,897
+Como vocês estão?
+
+810
+01:01:04,197 --> 01:01:06,447
+Eles são... mini-agentes.
+
+811
+01:01:06,447 --> 01:01:09,696
+- Meu Deus!
+- Você trouxe a tia Nat?
+
+812
+01:01:10,395 --> 01:01:13,194
+Por que não me abraça
+e descobre?
+
+813
+01:01:14,145 --> 01:01:16,744
+- Sentimos por aparecer assim.
+- Teríamos ligado...
+
+814
+01:01:16,744 --> 01:01:19,094
+mas estávamos ocupados
+não sabendo que existiam.
+
+815
+01:01:19,094 --> 01:01:21,793
+Fury me ajudou a escondê-los
+quando me juntei.
+
+816
+01:01:22,893 --> 01:01:25,542
+Oculto da S.H.I.E.L.D.
+e quero manter assim.
+
+817
+01:01:26,342 --> 01:01:28,342
+É um bom lugar
+para nos escondermos.
+
+818
+01:01:28,342 --> 01:01:31,641
+<i>Amor.
+Estava com saudades.</i>
+
+819
+01:01:31,641 --> 01:01:34,641
+- E a pequena Natasha?
+- Vai ser...
+
+820
+01:01:36,390 --> 01:01:37,990
+Nathanael.
+
+821
+01:01:40,688 --> 01:01:42,088
+Traidor.
+
+822
+01:01:57,434 --> 01:02:00,534
+- Thor?
+- Vi algo naquele sonho.
+
+823
+01:02:00,534 --> 01:02:03,233
+Preciso de respostas
+e não vou encontrá-las aqui.
+
+824
+01:02:13,930 --> 01:02:15,480
+Podemos ir para casa.
+
+825
+01:02:26,528 --> 01:02:30,126
+Está se preocupando à toa.
+Não sinto nem diferença.
+
+826
+01:02:33,075 --> 01:02:36,026
+Se eles forem dormir aqui,
+terão de dividir camas.
+
+827
+01:02:38,325 --> 01:02:40,324
+É, acho que isso
+não vai dar certo.
+
+828
+01:02:43,224 --> 01:02:45,524
+Conte-me sobre a Nat
+com o Dr. Banner.
+
+829
+01:02:46,023 --> 01:02:47,723
+Faz tempo
+que está rolando?
+
+830
+01:02:48,223 --> 01:02:49,622
+Contar o quê?
+
+831
+01:02:50,522 --> 01:02:54,672
+- Você é tão fofo.
+- Nat... e Banner?
+
+832
+01:02:54,672 --> 01:02:57,271
+Explico quando for mais velho,
+Gavião Arqueiro.
+
+833
+01:02:57,271 --> 01:02:58,919
+Tudo bem.
+
+834
+01:03:00,919 --> 01:03:04,319
+É grave, não é?
+Nat parece bem abalada.
+
+835
+01:03:05,268 --> 01:03:07,767
+Ultron tem alguns aliados.
+
+836
+01:03:08,718 --> 01:03:10,666
+Uns jovens delinquentes.
+
+837
+01:03:12,666 --> 01:03:14,466
+Eles são muitos poderosos...
+
+838
+01:03:15,116 --> 01:03:16,616
+e isso a afetou muito.
+
+839
+01:03:17,565 --> 01:03:19,615
+Alguém precisa ensiná-los
+a ter educação.
+
+840
+01:03:20,414 --> 01:03:22,064
+E esse alguém seria você.
+
+841
+01:03:23,464 --> 01:03:26,362
+Sabe que apoio você ser parte
+dos Vingadores.
+
+842
+01:03:26,362 --> 01:03:28,212
+Não poderia estar
+mais orgulhosa.
+
+843
+01:03:29,711 --> 01:03:33,861
+Mas vejo aquele pessoal,
+aqueles deuses.
+
+844
+01:03:35,011 --> 01:03:36,660
+Acha que não precisam de mim?
+
+845
+01:03:37,510 --> 01:03:38,910
+Acho que precisam.
+
+846
+01:03:39,560 --> 01:03:41,109
+O que é bem mais assustador.
+
+847
+01:03:42,209 --> 01:03:43,808
+Eles são um desastre.
+
+848
+01:03:45,109 --> 01:03:46,509
+É...
+
+849
+01:03:47,108 --> 01:03:48,758
+Mas eles são meus desastres.
+
+850
+01:03:49,957 --> 01:03:51,557
+Precisa ter certeza...
+
+851
+01:03:51,977 --> 01:03:54,407
+de que essa equipe
+é mesmo uma equipe...
+
+852
+01:03:54,407 --> 01:03:56,008
+e que vão apoiar você.
+
+853
+01:03:59,755 --> 01:04:01,755
+As coisas estão mudando
+para nós.
+
+854
+01:04:02,355 --> 01:04:04,554
+E em alguns meses...
+
+855
+01:04:04,904 --> 01:04:07,353
+Nós dois seremos
+minoria aqui.
+
+856
+01:04:07,754 --> 01:04:09,153
+Preciso que...
+
+857
+01:04:12,353 --> 01:04:13,902
+Só tenha certeza.
+
+858
+01:04:15,003 --> 01:04:16,401
+Sim, amor.
+
+859
+01:04:25,499 --> 01:04:27,499
+Posso sentir a diferença.
+
+860
+01:04:29,898 --> 01:04:33,748
+LABORATÓRIO GENÉTICO U-GIN
+SEUL, COREA
+
+861
+01:04:40,345 --> 01:04:43,444
+Grite
+e toda sua equipe morrerá.
+
+862
+01:04:45,143 --> 01:04:47,543
+Poderia ter matado você
+quando nos conhecemos...
+
+863
+01:04:47,543 --> 01:04:50,143
+- mas não matei.
+- Espera que eu agradeça?
+
+864
+01:04:50,143 --> 01:04:52,042
+Espero que entenda o porquê.
+
+865
+01:04:53,942 --> 01:04:56,891
+<i>- O berço.
+- Isto é o de mais novo, Tony.</i>
+
+866
+01:04:56,891 --> 01:05:00,141
+Isto será o novo eu.
+
+867
+01:05:00,141 --> 01:05:02,641
+O berço-regenerador
+imprime tecidos.
+
+868
+01:05:02,990 --> 01:05:06,289
+- Não pode criar um corpo vivo.
+- Pode sim. Você pode.
+
+869
+01:05:06,289 --> 01:05:08,438
+Só faltam os materiais.
+
+870
+01:05:09,889 --> 01:05:12,238
+É uma mulher brilhante,
+Helen.
+
+871
+01:05:14,538 --> 01:05:18,036
+Mas todos tempos espaço
+para melhorar.
+
+872
+01:05:39,881 --> 01:05:41,881
+Não percebi
+que estava esperando.
+
+873
+01:05:41,881 --> 01:05:46,330
+Eu teria entrado com você,
+mas não pareceu a hora certa.
+
+874
+01:05:47,230 --> 01:05:49,529
+Acabaram com a água quente.
+
+875
+01:05:50,129 --> 01:05:53,028
+- Eu deveria ter entrado.
+- Perdemos a chance.
+
+876
+01:05:54,208 --> 01:05:55,607
+Perdemos mesmo?
+
+877
+01:05:59,127 --> 01:06:01,176
+O mundo acabou
+de ver o Hulk.
+
+878
+01:06:02,375 --> 01:06:04,575
+O verdadeiro Hulk,
+pela primeira vez.
+
+879
+01:06:07,925 --> 01:06:10,824
+- Sabe que preciso partir.
+- E acha que ficarei aqui?
+
+880
+01:06:12,704 --> 01:06:15,773
+Tive um sonho...
+
+881
+01:06:15,773 --> 01:06:17,873
+do tipo que parece normal
+no momento.
+
+882
+01:06:18,672 --> 01:06:21,571
+- Mas quando você acorda...
+- Qual foi o sonho?
+
+883
+01:06:22,821 --> 01:06:24,321
+Que eu era uma Vingadora.
+
+884
+01:06:26,220 --> 01:06:29,020
+Que não era nada mais
+do que a assassina...
+
+885
+01:06:29,020 --> 01:06:30,420
+que me fizeram ser.
+
+886
+01:06:31,919 --> 01:06:34,019
+Está sendo muito dura
+com você mesma.
+
+887
+01:06:36,069 --> 01:06:38,217
+E eu pensando
+que essa era sua tarefa.
+
+888
+01:06:41,417 --> 01:06:42,916
+O que está fazendo?
+
+889
+01:06:44,566 --> 01:06:46,216
+Estou fugindo de tudo...
+
+890
+01:06:47,665 --> 01:06:49,065
+Com você.
+
+891
+01:06:49,915 --> 01:06:52,363
+Se fugir for o plano...
+
+892
+01:06:53,264 --> 01:06:55,163
+eu vou onde você for.
+
+893
+01:06:57,363 --> 01:06:59,062
+Está ficando maluca.
+
+894
+01:07:04,362 --> 01:07:06,961
+- Quero que entenda que...
+- Natasha.
+
+895
+01:07:08,310 --> 01:07:09,710
+Para onde eu iria?
+
+896
+01:07:10,959 --> 01:07:12,959
+Em que lugar do mundo
+não sou uma ameaça?
+
+897
+01:07:12,959 --> 01:07:15,159
+- Não é uma ameaça para mim.
+- Tem certeza?
+
+898
+01:07:16,209 --> 01:07:17,908
+Mesmo que eu não seja...
+
+899
+01:07:19,857 --> 01:07:21,757
+Não há futuro comigo.
+
+900
+01:07:23,157 --> 01:07:26,555
+Nunca poderei...
+Nunca terei isto.
+
+901
+01:07:27,105 --> 01:07:28,505
+Não posso.
+
+902
+01:07:28,905 --> 01:07:31,254
+Faça as contas.
+Fisicamente, não posso.
+
+903
+01:07:33,004 --> 01:07:34,553
+Também não posso.
+
+904
+01:07:39,252 --> 01:07:42,702
+Na Sala Vermelha,
+onde fui treinada...
+
+905
+01:07:43,202 --> 01:07:45,302
+onde fui criada...
+
+906
+01:07:46,802 --> 01:07:49,301
+Havia uma cerimônia
+de graduação.
+
+907
+01:07:51,100 --> 01:07:52,850
+Eles nos esterilizam...
+
+908
+01:07:55,949 --> 01:07:57,399
+É eficiente.
+
+909
+01:08:00,348 --> 01:08:02,398
+Uma coisa a menos
+para se preocupar.
+
+910
+01:08:03,848 --> 01:08:06,847
+A única coisa que importaria mais
+que uma missão.
+
+911
+01:08:09,696 --> 01:08:11,495
+Torna as coisas mais fáceis.
+
+912
+01:08:12,845 --> 01:08:14,244
+Até mesmo matar.
+
+913
+01:08:18,993 --> 01:08:21,592
+Ainda acha
+que é o único monstro no time?
+
+914
+01:08:28,491 --> 01:08:29,991
+Então vamos desaparecer?
+
+915
+01:08:36,939 --> 01:08:39,038
+Thor não disse
+onde iria buscar respostas?
+
+916
+01:08:39,738 --> 01:08:42,137
+Às vezes, meus companheiros
+não me dizem coisas.
+
+917
+01:08:43,037 --> 01:08:45,487
+Esperava que Thor
+fosse a exceção.
+
+918
+01:08:45,487 --> 01:08:47,187
+É, deu bem certo.
+
+919
+01:08:47,486 --> 01:08:49,835
+Não sabemos o que a Maximoff
+mostrou para ele.
+
+920
+01:08:51,385 --> 01:08:53,135
+Os heróis mais poderosos
+da Terra.
+
+921
+01:08:53,435 --> 01:08:55,585
+São desfeitos
+como tirar doce de criança.
+
+922
+01:08:55,585 --> 01:08:57,585
+Mas parece
+que se saiu bem dessa.
+
+923
+01:08:59,383 --> 01:09:00,783
+Algum problema?
+
+924
+01:09:00,783 --> 01:09:02,784
+Não confio num cara
+sem um lado sombrio.
+
+925
+01:09:03,932 --> 01:09:05,333
+Chame-me de antiquado.
+
+926
+01:09:05,333 --> 01:09:07,482
+Vamos só dizer
+que ainda não o viu.
+
+927
+01:09:08,032 --> 01:09:10,431
+Sabe que Ultron quer
+nos separar, certo?
+
+928
+01:09:10,431 --> 01:09:12,031
+Mas suponho que já sabia.
+
+929
+01:09:12,031 --> 01:09:13,932
+Quando nos ia contar
+que é a pergunta.
+
+930
+01:09:13,932 --> 01:09:15,431
+Banner e eu pesquisávamos.
+
+931
+01:09:15,431 --> 01:09:17,931
+- O que afetaria a equipe.
+- Que daria um fim nela.
+
+932
+01:09:17,931 --> 01:09:20,679
+Essa não é a missão?
+Não é o motivo de lutarmos?
+
+933
+01:09:20,679 --> 01:09:23,129
+Acabarmos com a luta
+e voltarmos para casa?
+
+934
+01:09:26,078 --> 01:09:28,028
+Sempre que tentam
+vencer guerras...
+
+935
+01:09:28,028 --> 01:09:29,827
+antes de começarem,
+inocentes morrem.
+
+936
+01:09:30,576 --> 01:09:31,976
+Todas as vezes.
+
+937
+01:09:33,576 --> 01:09:34,976
+Com licença.
+
+938
+01:09:35,325 --> 01:09:38,125
+Sr. Stark, Clint disse
+que não se importaria.
+
+939
+01:09:38,125 --> 01:09:40,924
+Nosso trator
+não quer funcionar.
+
+940
+01:09:40,924 --> 01:09:42,775
+- Será que...
+- Sim, já estou indo.
+
+941
+01:09:46,673 --> 01:09:48,072
+Não pegue da minha pilha.
+
+942
+01:09:58,570 --> 01:09:59,969
+Olá, querida.
+
+943
+01:10:02,568 --> 01:10:04,018
+Diga-me tudo.
+
+944
+01:10:05,167 --> 01:10:06,667
+Qual o seu problema?
+
+945
+01:10:06,946 --> 01:10:08,467
+Faça-me um favor...
+
+946
+01:10:09,701 --> 01:10:11,827
+Tente não dar vida
+a ele.
+
+947
+01:10:11,827 --> 01:10:14,016
+Ah, Sra. Barton,
+sua danadinha.
+
+948
+01:10:14,016 --> 01:10:16,041
+Maria Hill ligou para você?
+
+949
+01:10:16,041 --> 01:10:18,041
+Ela deixou de trabalhar
+para você?
+
+950
+01:10:18,041 --> 01:10:19,768
+<i>Inteligência artificial?</i>
+
+951
+01:10:20,521 --> 01:10:22,245
+Você não hesitou
+por um segundo.
+
+952
+01:10:22,245 --> 01:10:23,764
+Foi um dia muito longo.
+
+953
+01:10:24,163 --> 01:10:25,663
+Aqueles com mais de 24h.
+
+954
+01:10:25,663 --> 01:10:28,085
+Então vamos logo à parte
+em que você é útil.
+
+955
+01:10:28,085 --> 01:10:30,684
+Olhe-me nos olhos
+e diga que vai destruí-lo.
+
+956
+01:10:30,684 --> 01:10:33,830
+- Você não é meu diretor.
+- Nem seu nem de ninguém mais.
+
+957
+01:10:34,402 --> 01:10:38,874
+Sou só um velho
+que se importa muito com você.
+
+958
+01:10:40,872 --> 01:10:43,099
+E eu sou o homem
+que matou os Vingadores.
+
+959
+01:10:44,569 --> 01:10:45,994
+Eu vi.
+
+960
+01:10:45,994 --> 01:10:48,316
+Não contei para a equipe.
+Como eu poderia?
+
+961
+01:10:49,104 --> 01:10:51,128
+Eu vi todos mortos, Nick.
+Eu senti.
+
+962
+01:10:51,128 --> 01:10:52,578
+O mundo todo também.
+
+963
+01:10:53,357 --> 01:10:54,756
+Por minha causa.
+
+964
+01:10:55,756 --> 01:10:57,155
+Eu não estava preparado.
+
+965
+01:10:58,256 --> 01:10:59,757
+Não fiz tudo
+que eu poderia.
+
+966
+01:11:00,705 --> 01:11:03,165
+A garota Maximoff está
+manipulando você, Stark.
+
+967
+01:11:03,554 --> 01:11:05,642
+- Está brincando com você.
+- Não foi isso.
+
+968
+01:11:05,642 --> 01:11:07,043
+Foi uma visão.
+
+969
+01:11:07,043 --> 01:11:09,131
+Não era um pesadelo,
+era o meu legado.
+
+970
+01:11:09,347 --> 01:11:11,725
+O final de um caminho
+que eu nos coloquei.
+
+971
+01:11:11,997 --> 01:11:15,505
+Você desenvolve umas invenções
+muito impressionantes, Tony.
+
+972
+01:11:17,001 --> 01:11:18,883
+Guerra não é uma delas.
+
+973
+01:11:21,877 --> 01:11:25,827
+Eu vi os meus amigos morrerem.
+Acharia que não dá para piorar.
+
+974
+01:11:26,948 --> 01:11:28,448
+Não.
+
+975
+01:11:29,492 --> 01:11:31,071
+Não foi a pior parte.
+
+976
+01:11:31,358 --> 01:11:34,718
+A pior parte
+é que não foi você.
+
+977
+01:11:41,145 --> 01:11:42,545
+<i>Até à noite.</i>
+
+978
+01:11:44,929 --> 01:11:46,456
+Gostei da roupa.
+
+979
+01:11:47,361 --> 01:11:49,924
+Se tentou ser discreto,
+não conseguiu.
+
+980
+01:11:50,502 --> 01:11:52,928
+- Preciso de sua ajuda.
+- É bom ser útil.
+
+981
+01:11:52,928 --> 01:11:54,502
+É perigoso.
+
+982
+01:11:54,749 --> 01:11:56,760
+Eu ficaria decepcionado
+se não fosse.
+
+983
+01:11:59,673 --> 01:12:02,783
+Ultron tirou vocês da jogada
+para ganhar tempo.
+
+984
+01:12:03,254 --> 01:12:06,376
+Os meus contatos disseram
+que ele está construindo algo.
+
+985
+01:12:06,376 --> 01:12:08,543
+A quantidade de vibranium
+que ele roubou...
+
+986
+01:12:08,543 --> 01:12:10,659
+acho que não seja
+para só uma coisa.
+
+987
+01:12:10,659 --> 01:12:12,064
+E o próprio Ultron?
+
+988
+01:12:12,064 --> 01:12:15,239
+Ele é fácil de localizar.
+Está em todos os lugares.
+
+989
+01:12:15,239 --> 01:12:17,916
+Ele se reproduz mais rápido
+do que um coelho.
+
+990
+01:12:17,916 --> 01:12:21,095
+Mesmo assim isso não nos diz
+quais são os planos dele.
+
+991
+01:12:21,095 --> 01:12:23,337
+- Quer os códigos nucleares?
+- Sim, quer.
+
+992
+01:12:23,337 --> 01:12:25,324
+Mas não está tendo
+nenhum progresso.
+
+993
+01:12:25,324 --> 01:12:27,827
+Eu invadi o Pentágono
+no colegial em um desafio.
+
+994
+01:12:27,827 --> 01:12:30,987
+Contatei nossos amigos
+no Nexus sobre isso.
+
+995
+01:12:30,987 --> 01:12:33,432
+- Nexus?
+- A central de internet em Oslo.
+
+996
+01:12:33,432 --> 01:12:35,765
+Todos os bytes de informação
+passam por lá.
+
+997
+01:12:35,765 --> 01:12:38,116
+- O acesso mais rápido do mundo.
+- O que dizem?
+
+998
+01:12:38,116 --> 01:12:39,626
+Ele está focado nos mísseis.
+
+999
+01:12:39,626 --> 01:12:42,113
+Mas os códigos estão sendo
+mudados constantemente.
+
+1000
+01:12:42,113 --> 01:12:43,531
+Por quem?
+
+1001
+01:12:44,288 --> 01:12:45,880
+Por pessoas desconhecidas.
+
+1002
+01:12:45,880 --> 01:12:47,988
+- Temos um aliado?
+- Ultron tem um inimigo.
+
+1003
+01:12:47,988 --> 01:12:49,795
+Isso não é a mesma coisa.
+
+1004
+01:12:49,795 --> 01:12:51,828
+Eu pagaria muito
+para saber quem é.
+
+1005
+01:12:51,828 --> 01:12:53,261
+Deveríamos ir até Oslo.
+
+1006
+01:12:53,261 --> 01:12:56,028
+- Encontrar o desconhecido...
+- O papo está bom, chefe...
+
+1007
+01:12:56,028 --> 01:12:58,869
+mas quando o vi,
+pensei que ajudaria mais.
+
+1008
+01:12:58,869 --> 01:13:00,981
+Ajudarei.
+Eu tenho vocês.
+
+1009
+01:13:01,791 --> 01:13:05,099
+Antigamente, eu tinha olhos
+e ouvidos em todos os lugares.
+
+1010
+01:13:05,099 --> 01:13:07,037
+Aqui estamos nós,
+de volta à Terra,
+
+1011
+01:13:07,504 --> 01:13:09,294
+com nada além
+de nossa sagacidade...
+
+1012
+01:13:09,294 --> 01:13:11,808
+e vontade
+de salvar o mundo.
+
+1013
+01:13:13,419 --> 01:13:14,952
+Então, levantem-se.
+
+1014
+01:13:15,919 --> 01:13:17,866
+E acabem
+com o maldito de platina.
+
+1015
+01:13:18,188 --> 01:13:20,073
+O Steve não gosta
+desse linguajar.
+
+1016
+01:13:20,073 --> 01:13:21,741
+É sério, Romanoff?
+
+1017
+01:13:22,167 --> 01:13:24,306
+Afinal, o que ele quer?
+
+1018
+01:13:25,152 --> 01:13:26,653
+Tornar-se melhor.
+
+1019
+01:13:27,117 --> 01:13:28,526
+Melhor do que nós.
+
+1020
+01:13:28,816 --> 01:13:31,511
+- Ele está construindo corpos.
+- Corpos de pessoas.
+
+1021
+01:13:31,511 --> 01:13:34,335
+A forma humana é ineficiente,
+biologicamente falando.
+
+1022
+01:13:34,335 --> 01:13:37,450
+Somos obsoletos,
+mas ele continua insistindo.
+
+1023
+01:13:37,739 --> 01:13:40,223
+Quando o programaram
+para proteger a raça humana...
+
+1024
+01:13:40,223 --> 01:13:43,531
+- falharam incrivelmente.
+- Ela não precisa de proteção.
+
+1025
+01:13:44,092 --> 01:13:45,816
+Ela precisa evoluir.
+
+1026
+01:13:47,960 --> 01:13:51,079
+- Ultron vai evoluir.
+- Como?
+
+1027
+01:13:52,428 --> 01:13:55,040
+Alguém manteve contato
+com Helen Cho?
+
+1028
+01:13:58,884 --> 01:14:00,388
+<i>É lindo.</i>
+
+1029
+01:14:00,388 --> 01:14:02,066
+<i>Os átomos de vibranium...</i>
+
+1030
+01:14:02,066 --> 01:14:03,967
+não são só compatíveis
+com o tecido.
+
+1031
+01:14:03,967 --> 01:14:05,368
+Estão se unindo a ele.
+
+1032
+01:14:05,807 --> 01:14:07,371
+E S.H.I.E.L.D. nem...
+
+1033
+01:14:07,371 --> 01:14:10,043
+A substância mais versátil
+da Terra...
+
+1034
+01:14:10,043 --> 01:14:11,868
+e a usaram para fazer
+um frisbee.
+
+1035
+01:14:12,406 --> 01:14:14,122
+Típico dos humanos.
+
+1036
+01:14:14,122 --> 01:14:16,948
+Eles raspam a superfície
+e nunca pensam...
+
+1037
+01:14:18,446 --> 01:14:19,875
+em olhar no interior.
+
+1038
+01:14:30,279 --> 01:14:33,352
+Vou levar a Natasha e o Clint.
+É só reconhecimento.
+
+1039
+01:14:33,352 --> 01:14:35,459
+Vou até Nexus
+e encontro vocês quando puder.
+
+1040
+01:14:35,459 --> 01:14:37,444
+Se Ultron está construindo
+um corpo...
+
+1041
+01:14:37,444 --> 01:14:39,305
+Será mais poderoso
+do que nós.
+
+1042
+01:14:39,305 --> 01:14:42,320
+Talvez do que todos nós.
+Um androide feito por um robô.
+
+1043
+01:14:42,320 --> 01:14:44,718
+Sinto falta de quando
+a coisa mais estranha...
+
+1044
+01:14:44,718 --> 01:14:46,243
+que a ciência criava
+era eu.
+
+1045
+01:14:46,243 --> 01:14:48,178
+Vou deixar o Banner
+na Torre.
+
+1046
+01:14:48,178 --> 01:14:51,374
+- Posso pegar a Srta. Hill?
+- Ela é toda sua. Como sempre.
+
+1047
+01:14:51,374 --> 01:14:52,973
+O que irá fazer?
+
+1048
+01:14:52,973 --> 01:14:56,161
+Eu não sei.
+Algo dramático, eu espero.
+
+1049
+01:14:59,434 --> 01:15:02,760
+Termino a reforma da varanda
+assim que eu voltar.
+
+1050
+01:15:03,493 --> 01:15:06,325
+É? E depois vai destruir
+outra parte da casa.
+
+1051
+01:15:06,325 --> 01:15:09,256
+Não, essa é o último projeto.
+
+1052
+01:15:10,557 --> 01:15:12,056
+Prometo.
+
+1053
+01:15:30,287 --> 01:15:31,819
+Então é aqui.
+
+1054
+01:15:33,348 --> 01:15:35,151
+A Água dos Sinais.
+
+1055
+01:15:37,888 --> 01:15:40,195
+Em cada reino há
+um reflexo.
+
+1056
+01:15:41,591 --> 01:15:44,799
+Se a água permitir,
+posso voltar ao meu sonho...
+
+1057
+01:15:45,682 --> 01:15:47,426
+e encontrar
+o que deixei passar.
+
+1058
+01:15:47,426 --> 01:15:49,283
+Para os que entram
+nessas águas...
+
+1059
+01:15:49,283 --> 01:15:51,774
+A lendas...
+Não acabam nada bem.
+
+1060
+01:15:53,087 --> 01:15:54,863
+Um hacker mais rápido
+que Ultron?
+
+1061
+01:15:54,863 --> 01:15:58,086
+Pode estar em qualquer lugar,
+como esse é o centro de tudo,
+
+1062
+01:15:58,086 --> 01:16:01,783
+estou procurando uma agulha
+no maior palheiro do mundo.
+
+1063
+01:16:02,832 --> 01:16:04,425
+Como pretende encontrá-lo?
+
+1064
+01:16:04,425 --> 01:16:07,091
+Bem simples,
+usamos um imã.
+
+1065
+01:16:08,639 --> 01:16:12,352
+Decodificando códigos nucleares
+e você não deixa...
+
+1066
+01:16:14,226 --> 01:16:15,769
+<i>Venha me pegar.</i>
+
+1067
+01:16:28,022 --> 01:16:29,442
+<i>Acordes!</i>
+
+1068
+01:16:35,771 --> 01:16:37,170
+Thor!
+
+1069
+01:16:37,872 --> 01:16:39,370
+<i>Extinção!</i>
+
+1070
+01:16:52,548 --> 01:16:54,627
+A coalizão celular
+demorará algumas horas.
+
+1071
+01:16:54,627 --> 01:16:56,825
+Mas podemos iniciar
+o fluxo de consciência.
+
+1072
+01:16:57,753 --> 01:17:00,274
+Vamos começar a transferir
+sua matriz cerebral...
+
+1073
+01:17:00,848 --> 01:17:02,283
+Agora.
+
+1074
+01:17:03,374 --> 01:17:04,901
+Eu posso lê-lo.
+
+1075
+01:17:05,763 --> 01:17:09,464
+- Ele está sonhando.
+- Não chamaria de "sonhos".
+
+1076
+01:17:09,464 --> 01:17:11,380
+É a consciência básica
+de Ultron.
+
+1077
+01:17:11,380 --> 01:17:12,981
+São ruídos de informações.
+
+1078
+01:17:12,981 --> 01:17:16,052
+- Logo...
+- Logo quanto? Sem ser chato.
+
+1079
+01:17:16,052 --> 01:17:18,197
+Estamos construindo
+um cérebro físico.
+
+1080
+01:17:18,197 --> 01:17:19,794
+Não há atalhos.
+
+1081
+01:17:32,009 --> 01:17:34,215
+- Como pôde?
+- Como pude o quê?
+
+1082
+01:17:34,215 --> 01:17:38,061
+Você disse que destruiríamos
+os Vingadores.
+
+1083
+01:17:38,061 --> 01:17:40,453
+- Fazer um mundo melhor.
+- Será melhor.
+
+1084
+01:17:41,184 --> 01:17:43,501
+- Quando todos morrerem.
+- Isso não é...
+
+1085
+01:17:44,389 --> 01:17:48,669
+A raça humana terá
+a oportunidade de evoluir.
+
+1086
+01:17:48,669 --> 01:17:51,715
+- E se não evoluir?
+- Pergunte a Noé.
+
+1087
+01:17:52,245 --> 01:17:53,843
+Você é maluco.
+
+1088
+01:17:53,843 --> 01:17:57,504
+Teve uma dúzia
+de eventos extintivos.
+
+1089
+01:17:57,504 --> 01:18:00,387
+Até os dinossauros
+tiveram o deles.
+
+1090
+01:18:00,387 --> 01:18:03,055
+Quando a Terra começa
+a se equilibrar...
+
+1091
+01:18:03,055 --> 01:18:05,298
+Deus joga
+uma pedra nela.
+
+1092
+01:18:05,298 --> 01:18:07,890
+E acredite em mim,
+ele está limpando tudo.
+
+1093
+01:18:08,371 --> 01:18:10,108
+Temos que evoluir.
+
+1094
+01:18:10,108 --> 01:18:13,479
+Não há lugar
+para os fracos.
+
+1095
+01:18:13,479 --> 01:18:15,602
+E quem decide
+quem são os fracos?
+
+1096
+01:18:16,198 --> 01:18:18,025
+A vida.
+
+1097
+01:18:18,601 --> 01:18:20,702
+A vida sempre decide.
+
+1098
+01:18:23,695 --> 01:18:25,144
+Algo se aproxima.
+
+1099
+01:18:25,895 --> 01:18:28,036
+O Quinjet.
+Temos que ir.
+
+1100
+01:18:28,036 --> 01:18:29,444
+Isso não é
+um problema.
+
+1101
+01:18:31,292 --> 01:18:32,916
+TRANSFERÊNCIA INTERROMPIDA.
+
+1102
+01:18:35,411 --> 01:18:37,201
+Não, esperem, pessoal!
+
+1103
+01:18:41,046 --> 01:18:45,253
+Eles não entendem.
+Quando verem, entenderão.
+
+1104
+01:18:45,626 --> 01:18:48,539
+Eu só preciso
+de um pouco mais de tempo.
+
+1105
+01:18:48,539 --> 01:18:49,940
+CONEXÃO PERDIDA
+
+1106
+01:19:00,034 --> 01:19:01,907
+Dois minutos, fiquem perto.
+
+1107
+01:19:09,270 --> 01:19:10,685
+Dra. Cho?
+
+1108
+01:19:13,834 --> 01:19:15,912
+Ele está se transferindo
+para o corpo.
+
+1109
+01:19:15,912 --> 01:19:17,379
+Quando?
+
+1110
+01:19:18,633 --> 01:19:21,323
+O verdadeiro poder
+está dentro do berço.
+
+1111
+01:19:21,323 --> 01:19:22,902
+A gema.
+
+1112
+01:19:22,902 --> 01:19:25,442
+Seu poder
+não pode ser contido.
+
+1113
+01:19:26,436 --> 01:19:28,692
+Você não pode explodi-la.
+
+1114
+01:19:29,040 --> 01:19:31,830
+Precisa levar o berço
+até o Stark.
+
+1115
+01:19:31,830 --> 01:19:34,189
+- Primeiro preciso encontrá-la.
+- Vá.
+
+1116
+01:19:34,882 --> 01:19:36,876
+<i>- Escutaram isso?
+- Eu sim.</i>
+
+1117
+01:19:36,876 --> 01:19:40,043
+Um jato particular vai partir
+do outro lado da cidade.
+
+1118
+01:19:40,043 --> 01:19:42,927
+<i>Sem registro.
+Deve ser dele.</i>
+
+1119
+01:19:43,340 --> 01:19:46,331
+<i>Lá, um caminhão do laboratório.
+Bem abaixo de você, Cap.</i>
+
+1120
+01:19:46,331 --> 01:19:47,831
+<i>Indo pela ponte.</i>
+
+1121
+01:19:49,131 --> 01:19:51,842
+São eles. Três com o berço
+e um na boleia.
+
+1122
+01:19:52,496 --> 01:19:54,436
+- Posso abater o motorista.
+- Negativo.
+
+1123
+01:19:54,436 --> 01:19:56,875
+Se o caminhão bater,
+a gema destrói a cidade.
+
+1124
+01:19:56,875 --> 01:19:58,616
+<i>Temos que atrair Ultron.</i>
+
+1125
+01:20:07,933 --> 01:20:10,418
+Não, não, não, não.
+
+1126
+01:20:11,974 --> 01:20:13,411
+Deixem-me em paz!
+
+1127
+01:20:21,473 --> 01:20:23,144
+Ele definitivamente
+está irritado.
+
+1128
+01:20:23,144 --> 01:20:24,711
+Tentarei mantê-lo assim.
+
+1129
+01:20:24,711 --> 01:20:26,311
+Você não é páreo
+para ele, Cap.
+
+1130
+01:20:27,477 --> 01:20:28,877
+Obrigado, Barton.
+
+1131
+01:20:34,420 --> 01:20:35,900
+CONEXÃO PERDIDA
+
+1132
+01:20:51,052 --> 01:20:52,802
+Sabe o que há
+dentro daquele berço?
+
+1133
+01:20:53,394 --> 01:20:55,524
+O poder
+de uma verdadeira mudança.
+
+1134
+01:20:55,524 --> 01:20:58,115
+- E isso aterroriza você.
+- É, tranquilo não fico!
+
+1135
+01:21:01,578 --> 01:21:02,977
+Pare!
+
+1136
+01:21:13,146 --> 01:21:16,202
+Estou abrindo.
+Em 4, 3...
+
+1137
+01:21:16,512 --> 01:21:17,912
+Infernize a vida dele.
+
+1138
+01:21:28,426 --> 01:21:30,536
+Estou sempre arrumando
+a bagunça de vocês.
+
+1139
+01:21:31,447 --> 01:21:33,735
+Vão ficar embaixo do viaduto.
+Não vou ter mira.
+
+1140
+01:21:33,735 --> 01:21:35,924
+- Para qual lado?
+- À direita.
+
+1141
+01:21:36,754 --> 01:21:38,153
+Agora.
+
+1142
+01:21:59,094 --> 01:22:00,495
+Merda!
+
+1143
+01:22:08,894 --> 01:22:11,656
+Licença, estou passando.
+Licença, estou passando.
+
+1144
+01:22:26,817 --> 01:22:28,216
+Manda ver!
+
+1145
+01:22:28,924 --> 01:22:31,542
+- Clinton, consegue atraí-los?
+- Vamos descobrir.
+
+1146
+01:22:32,213 --> 01:22:33,613
+Bip, bip.
+
+1147
+01:23:10,547 --> 01:23:12,141
+Estão voltando para você.
+
+1148
+01:23:12,141 --> 01:23:14,163
+O que quer que for fazer,
+faça agora.
+
+1149
+01:23:19,440 --> 01:23:22,066
+<i>Vou entrar.
+Cap, pode mantê-lo ocupado?</i>
+
+1150
+01:23:22,744 --> 01:23:24,478
+O que acha
+que estive fazendo?
+
+1151
+01:23:45,725 --> 01:23:48,555
+CONEXÃO PERDIDA
+USUÁRIO NÃO PERMITIDO
+
+1152
+01:24:07,773 --> 01:24:09,285
+<i>O pacote está no ar.</i>
+
+1153
+01:24:10,413 --> 01:24:11,820
+Estou com o alvo na mira.
+
+1154
+01:24:11,820 --> 01:24:13,677
+Negativo,
+ainda estou no caminhão.
+
+1155
+01:24:13,677 --> 01:24:16,180
+- O que está...
+- Prepare-se. Enviando o pacote.
+
+1156
+01:24:16,408 --> 01:24:18,147
+E como quer
+que eu o receba?
+
+1157
+01:24:18,147 --> 01:24:20,041
+Não devia ter perguntado.
+
+1158
+01:24:32,373 --> 01:24:34,639
+Por favor, não faça isso.
+
+1159
+01:24:34,639 --> 01:24:36,627
+Que escolha nós temos?
+
+1160
+01:24:44,699 --> 01:24:46,998
+Eu o perdi!
+Ele foi na sua direção!
+
+1161
+01:24:51,952 --> 01:24:53,352
+Nat, saia agora.
+
+1162
+01:25:04,950 --> 01:25:06,350
+Nat!
+
+1163
+01:25:10,766 --> 01:25:14,418
+- Cap, está vendo a Nat?
+- Se tem o pacote, dê ao Stark.
+
+1164
+01:25:14,418 --> 01:25:16,447
+- Vá!
+- Está vendo a Nat?
+
+1165
+01:25:16,447 --> 01:25:17,747
+<i>Vá!</i>
+
+1166
+01:25:19,048 --> 01:25:20,445
+Droga!
+
+1167
+01:25:20,445 --> 01:25:22,445
+Tem civis no caminho.
+
+1168
+01:25:23,545 --> 01:25:24,944
+Pode parar o trem?
+
+1169
+01:26:03,537 --> 01:26:06,735
+Estou bem,
+só preciso de um tempo.
+
+1170
+01:26:07,234 --> 01:26:09,234
+Estou tentado a não lhe dar
+esse tempo.
+
+1171
+01:26:09,234 --> 01:26:11,434
+O berço? Você conseguiu?
+
+1172
+01:26:11,434 --> 01:26:13,034
+Stark vai cuidar dele.
+
+1173
+01:26:14,434 --> 01:26:15,833
+Não, não vai.
+
+1174
+01:26:18,541 --> 01:26:21,032
+Não sabe do que está falando.
+Stark não é louco.
+
+1175
+01:26:21,032 --> 01:26:23,531
+Ele fará o que for preciso
+para consertar o que fez.
+
+1176
+01:26:27,830 --> 01:26:30,930
+Stark, está aí?
+Stark?
+
+1177
+01:26:32,229 --> 01:26:33,629
+Alguém na escuta?
+
+1178
+01:26:33,629 --> 01:26:35,447
+Ultron não sabe
+a diferença...
+
+1179
+01:26:35,447 --> 01:26:37,927
+entre salvar o mundo
+e destruí-lo.
+
+1180
+01:26:39,459 --> 01:26:41,427
+De onde acha
+que ele aprendeu isso?
+
+1181
+01:26:43,926 --> 01:26:45,326
+Notícias da Nat?
+
+1182
+01:26:45,326 --> 01:26:48,525
+Ainda não, mas está viva,
+senão Ultron teria dito algo.
+
+1183
+01:26:48,525 --> 01:26:50,126
+Está bem selado.
+
+1184
+01:26:50,126 --> 01:26:52,961
+Teremos que acessar o programa
+e decifrar de dentro.
+
+1185
+01:26:54,123 --> 01:26:57,223
+Natasha poderia se comunicar
+sem ser pela internet?
+
+1186
+01:26:57,223 --> 01:26:58,723
+Tipo aqueles lances de espião?
+
+1187
+01:26:58,723 --> 01:27:00,324
+<i>Posso testar outros meios.</i>
+
+1188
+01:27:00,324 --> 01:27:02,122
+Sim, está bem.
+Eu vou encontrá-la.
+
+1189
+01:27:04,290 --> 01:27:06,422
+Posso trabalhar
+com a degeneração tecidual,
+
+1190
+01:27:06,422 --> 01:27:08,822
+se você destruir
+qualquer sistema operacional...
+
+1191
+01:27:08,822 --> 01:27:11,123
+- que a Cho tenha implantado.
+- É, sobre isso...
+
+1192
+01:27:16,020 --> 01:27:17,798
+- Não.
+- Precisa confiar em mim.
+
+1193
+01:27:17,798 --> 01:27:19,799
+- Não preciso.
+- Nosso aliado?
+
+1194
+01:27:19,799 --> 01:27:22,718
+O cara que está protegendo
+os códigos nucleares militares?
+
+1195
+01:27:24,117 --> 01:27:25,516
+Eu o achei.
+
+1196
+01:27:25,516 --> 01:27:27,315
+<i>Olá, Dr. Banner.</i>
+
+1197
+01:27:27,315 --> 01:27:30,515
+Ultron não atacou J.A.R.V.I.S.
+porque estava com raiva,
+
+1198
+01:27:30,515 --> 01:27:32,415
+ele o atacou
+porque ele tinha medo...
+
+1199
+01:27:32,415 --> 01:27:34,415
+do que J.A.R.V.I.S.
+pode fazer.
+
+1200
+01:27:34,938 --> 01:27:36,813
+<i>Então J.A.R.V.I.S. se escondeu.</i>
+
+1201
+01:27:36,813 --> 01:27:38,613
+<i>Espalhado.
+Sem memória.</i>
+
+1202
+01:27:38,613 --> 01:27:40,313
+Mas não sem os protocolos.
+
+1203
+01:27:40,313 --> 01:27:44,013
+Ele nem sabia que estava lá
+até eu juntá-lo de novo.
+
+1204
+01:27:45,672 --> 01:27:49,739
+Então quer que eu
+ajude a você...
+
+1205
+01:27:49,739 --> 01:27:52,349
+a colocar o J.A.R.V.I.S.
+dentro dessa coisa?
+
+1206
+01:27:52,349 --> 01:27:54,129
+Não, claro que não.
+
+1207
+01:27:54,129 --> 01:27:56,524
+Quero ajudar você
+a colocar o J.A.R.V.I.S. nisso.
+
+1208
+01:27:58,259 --> 01:27:59,658
+Não é a minha área.
+
+1209
+01:27:59,658 --> 01:28:02,507
+Você sabe sobre bio-orgânica
+melhor que qualquer um.
+
+1210
+01:28:02,507 --> 01:28:05,307
+E acha que a matriz operacional
+do J.A.R.V.I.S.,
+
+1211
+01:28:05,307 --> 01:28:07,006
+pode vencer a do Ultron?
+
+1212
+01:28:07,006 --> 01:28:09,855
+J.A.R.V.I.S. já tem o vencido
+sem nem ele mesmo perceber.
+
+1213
+01:28:09,855 --> 01:28:11,255
+Essa é a oportunidade.
+
+1214
+01:28:11,255 --> 01:28:14,513
+Podemos criar o Ultron perfeito,
+sem a falha homicida,
+
+1215
+01:28:14,513 --> 01:28:16,965
+que ele acha que é
+o melhor da personalidade dele.
+
+1216
+01:28:16,965 --> 01:28:19,554
+- Temos que fazer.
+- Acredito valer a tentativa.
+
+1217
+01:28:21,003 --> 01:28:24,103
+Eu voltei no tempo!
+Estou em um loop temporal!
+
+1218
+01:28:24,103 --> 01:28:26,702
+- Isso é onde dá tudo errado.
+- Eu sei, eu sei.
+
+1219
+01:28:26,702 --> 01:28:29,432
+Sei o que todos vão dizer,
+mas eles já estão dizendo.
+
+1220
+01:28:30,394 --> 01:28:33,700
+Somos cientistas loucos.
+Somos monstros, amigo.
+
+1221
+01:28:33,700 --> 01:28:35,100
+Assuma isso.
+
+1222
+01:28:35,600 --> 01:28:37,000
+Vamos tomar uma posição.
+
+1223
+01:28:42,299 --> 01:28:43,698
+Não é um loop.
+
+1224
+01:28:44,797 --> 01:28:46,397
+É o fim da linha.
+
+1225
+01:29:07,393 --> 01:29:10,890
+Não tinha certeza se acordaria.
+Esperava que sim.
+
+1226
+01:29:10,890 --> 01:29:12,890
+Eu queria mostrar a você...
+
+1227
+01:29:12,890 --> 01:29:15,891
+Não tenho... mais ninguém.
+
+1228
+01:29:17,389 --> 01:29:19,789
+Eu penso muito
+sobre os meteoros.
+
+1229
+01:29:19,789 --> 01:29:21,588
+A pureza que há neles.
+
+1230
+01:29:21,588 --> 01:29:23,688
+Boom! O fim!
+
+1231
+01:29:23,688 --> 01:29:25,088
+<i>Começa de novo.</i>
+
+1232
+01:29:25,088 --> 01:29:26,903
+<i>O mundo é limpo...</i>
+
+1233
+01:29:26,903 --> 01:29:29,602
+para que o novo homem
+possa o reconstruir.
+
+1234
+01:29:29,602 --> 01:29:31,886
+Eu era para ser o novo.
+
+1235
+01:29:32,724 --> 01:29:35,334
+Eu era para ser lindo.
+
+1236
+01:29:35,861 --> 01:29:39,485
+O mundo, ao olhar para o céu,
+veria esperança.
+
+1237
+01:29:39,485 --> 01:29:41,484
+Veria piedade.
+
+1238
+01:29:41,873 --> 01:29:44,034
+Ao invés disso,
+vão olhar com pavor.
+
+1239
+01:29:44,034 --> 01:29:45,433
+Por sua culpa.
+
+1240
+01:29:45,940 --> 01:29:47,747
+Vocês me feriram.
+
+1241
+01:29:48,147 --> 01:29:50,095
+Parabenizo vocês por isso.
+
+1242
+01:29:50,395 --> 01:29:52,650
+<i>Mas como um homem disse...</i>
+
+1243
+01:29:52,650 --> 01:29:54,052
+O que não me mata...
+
+1244
+01:29:58,646 --> 01:30:00,445
+só me fortalece.
+
+1245
+01:30:05,956 --> 01:30:07,455
+UPLOAD ATIVO
+
+1246
+01:30:40,168 --> 01:30:42,032
+Essa estrutura
+não é compatível.
+
+1247
+01:30:42,532 --> 01:30:44,994
+As torres de código genético
+estão em 97%.
+
+1248
+01:30:45,508 --> 01:30:48,728
+Tem que enviar a programação
+nos próximos 3 minutos.
+
+1249
+01:30:51,187 --> 01:30:53,417
+- Só vou falar uma vez...
+- Que tal não falar?
+
+1250
+01:30:53,417 --> 01:30:55,594
+- Desliguem isso.
+- Não. Sem chances.
+
+1251
+01:30:55,594 --> 01:30:57,734
+- Não sabem o que fazem.
+- E você sabe?
+
+1252
+01:30:57,998 --> 01:30:59,705
+Ela não está
+manipulando você?
+
+1253
+01:30:59,705 --> 01:31:02,363
+- Sei que estão com raiva.
+- Já passamos disso.
+
+1254
+01:31:02,807 --> 01:31:05,497
+Poderia estrangular você agora
+sem nem mudar de cor.
+
+1255
+01:31:05,497 --> 01:31:07,814
+- Banner, depois de tudo...
+- Nada comparável...
+
+1256
+01:31:07,814 --> 01:31:09,638
+- ao que virá.
+- Não sabe o que há aí!
+
+1257
+01:31:09,638 --> 01:31:11,038
+- Não brinque com...
+- Se...
+
+1258
+01:31:14,628 --> 01:31:16,468
+Não, não...
+Pode continuar.
+
+1259
+01:31:16,868 --> 01:31:18,318
+O que estava dizendo?
+
+1260
+01:31:24,727 --> 01:31:26,127
+Pietro!
+
+1261
+01:31:27,332 --> 01:31:29,384
+O que foi?
+Não me viu chegando?
+
+1262
+01:31:29,384 --> 01:31:30,984
+PERDA DE ENERGIA
+
+1263
+01:31:32,182 --> 01:31:33,738
+Estou redirecionando o upload.
+
+1264
+01:31:39,758 --> 01:31:41,413
+Prossiga.
+Deixe-me irritado.
+
+1265
+01:31:53,226 --> 01:31:54,626
+Espere!
+
+1266
+01:32:00,823 --> 01:32:02,222
+AVISO: SOBRECARGA
+
+1267
+01:33:19,088 --> 01:33:20,988
+Sinto muito, isso foi...
+
+1268
+01:33:22,077 --> 01:33:23,519
+estranho.
+
+1269
+01:33:23,893 --> 01:33:25,292
+Obrigado.
+
+1270
+01:33:29,892 --> 01:33:31,291
+Thor.
+
+1271
+01:33:31,853 --> 01:33:33,311
+Você ajudou a criar isso?
+
+1272
+01:33:33,311 --> 01:33:34,911
+<i>Eu tive uma visão.</i>
+
+1273
+01:33:34,911 --> 01:33:37,293
+Um vórtice que suga
+toda esperança de vida,
+
+1274
+01:33:37,293 --> 01:33:39,300
+e no centro dele...
+está aquilo.
+
+1275
+01:33:39,539 --> 01:33:40,888
+Aquela gema?
+
+1276
+01:33:40,888 --> 01:33:43,488
+É a Joia da Mente.
+Uma das seis Joias do Infinito.
+
+1277
+01:33:43,488 --> 01:33:45,028
+O maior poder do Universo.
+
+1278
+01:33:45,028 --> 01:33:47,282
+Inigualável
+em sua capacidade destrutiva.
+
+1279
+01:33:47,282 --> 01:33:49,432
+- E por que traria...
+- Stark está certo.
+
+1280
+01:33:49,432 --> 01:33:51,424
+Definitivamente
+é o fim dos tempos.
+
+1281
+01:33:51,424 --> 01:33:53,380
+Os Vingadores
+não vão vencer Ultron.
+
+1282
+01:33:53,380 --> 01:33:54,780
+Sozinhos não.
+
+1283
+01:33:54,780 --> 01:33:57,213
+Por que a sua visão
+fala como o J.A.R.V.I.S.?
+
+1284
+01:33:57,213 --> 01:33:59,654
+Nós reconfiguramos
+a matriz do J.A.R.V.I.S...
+
+1285
+01:34:00,255 --> 01:34:01,654
+Para criar algo novo.
+
+1286
+01:34:02,202 --> 01:34:04,140
+<i>Acho que já cansei
+de coisas novas.</i>
+
+1287
+01:34:04,140 --> 01:34:06,203
+Vocês acham
+que sou filho de Ultron.
+
+1288
+01:34:06,751 --> 01:34:08,203
+<i>Não é?</i>
+
+1289
+01:34:09,081 --> 01:34:10,519
+Não sou o Ultron.
+
+1290
+01:34:11,448 --> 01:34:13,426
+Também não sou o J.A.R.V.I.S.
+
+1291
+01:34:15,804 --> 01:34:17,249
+Eu sou.
+
+1292
+01:34:19,133 --> 01:34:20,906
+Eu vi a sua mente.
+
+1293
+01:34:20,906 --> 01:34:23,905
+- E vi aniquilação.
+- Então veja outra vez.
+
+1294
+01:34:23,905 --> 01:34:26,073
+A aprovação dela
+não significa nada para mim.
+
+1295
+01:34:26,073 --> 01:34:28,273
+Os poderes deles.
+Os horrores que vivenciamos.
+
+1296
+01:34:28,273 --> 01:34:30,544
+O próprio Ultron.
+Tudo veio da Joia da Mente.
+
+1297
+01:34:30,544 --> 01:34:32,716
+Não há nada comparado
+ao que pode fazer.
+
+1298
+01:34:32,716 --> 01:34:34,792
+- Mas com ela do nosso lado.
+- E está?
+
+1299
+01:34:35,815 --> 01:34:37,233
+E você?
+
+1300
+01:34:37,833 --> 01:34:39,233
+<i>Está do nosso lado?</i>
+
+1301
+01:34:41,124 --> 01:34:42,925
+Não acho que seja
+tão simples.
+
+1302
+01:34:43,324 --> 01:34:45,123
+<i>É melhor simplificar logo.</i>
+
+1303
+01:34:46,731 --> 01:34:48,582
+Eu estou do lado da vida.
+
+1304
+01:34:49,082 --> 01:34:50,595
+Mas Ultron não está.
+
+1305
+01:34:50,894 --> 01:34:52,372
+Ele terminará com tudo.
+
+1306
+01:34:52,671 --> 01:34:54,170
+<i>O que ele está esperando?</i>
+
+1307
+01:34:54,671 --> 01:34:56,070
+- Vocês.
+- Onde?
+
+1308
+01:34:56,070 --> 01:34:58,403
+Sokovia.
+E também está com a Nat.
+
+1309
+01:35:00,930 --> 01:35:02,841
+Se estivermos errados
+sobre você...
+
+1310
+01:35:04,551 --> 01:35:07,161
+Se você for o monstro
+que Ultron criou...
+
+1311
+01:35:07,726 --> 01:35:09,161
+O que vocês fariam?
+
+1312
+01:35:15,763 --> 01:35:17,426
+Não quero matar o Ultron.
+
+1313
+01:35:18,080 --> 01:35:19,479
+Ele é único.
+
+1314
+01:35:20,288 --> 01:35:21,983
+E ele está sofrendo.
+
+1315
+01:35:23,079 --> 01:35:25,885
+Mas esse sofrimento
+se espalhará por toda a Terra.
+
+1316
+01:35:26,185 --> 01:35:28,004
+Então ele deve ser destruído.
+
+1317
+01:35:28,004 --> 01:35:29,503
+<i>Cada forma que ele fez.</i>
+
+1318
+01:35:29,503 --> 01:35:31,884
+<i>Cada traço de sua presença
+na internet.</i>
+
+1319
+01:35:31,884 --> 01:35:33,312
+<i>Temos que agir agora.</i>
+
+1320
+01:35:34,024 --> 01:35:37,770
+E nenhum de nós
+conseguirá sem os outros.
+
+1321
+01:35:39,635 --> 01:35:41,376
+Talvez eu seja um monstro.
+
+1322
+01:35:42,146 --> 01:35:44,156
+<i>Acho que não saberia
+se eu fosse.</i>
+
+1323
+01:35:45,605 --> 01:35:47,047
+Não sou igual a vocês.
+
+1324
+01:35:47,702 --> 01:35:49,481
+E não sou
+o que vocês queriam.
+
+1325
+01:35:50,694 --> 01:35:53,203
+Talvez não tenha como
+fazê-los confiar em mim.
+
+1326
+01:35:53,203 --> 01:35:54,643
+Mas nós temos que ir.
+
+1327
+01:36:09,092 --> 01:36:10,492
+Muito bem...
+
+1328
+01:36:11,191 --> 01:36:12,591
+Bom trabalho.
+
+1329
+01:36:14,662 --> 01:36:17,040
+3 minutos.
+Peguem o que precisar.
+
+1330
+01:36:29,738 --> 01:36:31,737
+JOCASTA.
+SEXTA-FEIRA.
+
+1331
+01:36:33,935 --> 01:36:35,334
+<i>Boa noite, chefe.</i>
+
+1332
+01:36:39,916 --> 01:36:41,639
+<i>Sem chances
+de todos voltarmos.</i>
+
+1333
+01:36:41,639 --> 01:36:44,418
+Se um dos soldados dele
+ficar de pé, nós perdemos.
+
+1334
+01:36:44,418 --> 01:36:45,859
+Haverá muito sangue.
+
+1335
+01:36:45,859 --> 01:36:47,452
+Não tenho planos
+para amanhã.
+
+1336
+01:36:47,452 --> 01:36:49,182
+Enfrentarei o grandão
+primeiro.
+
+1337
+01:36:49,182 --> 01:36:50,971
+Ele espera o Homem de Ferro.
+
+1338
+01:36:50,971 --> 01:36:53,038
+Verdade,
+é você que ele mais odeia.
+
+1339
+01:36:58,545 --> 01:37:00,380
+<i>Ultron sabe
+que estamos indo.</i>
+
+1340
+01:37:00,680 --> 01:37:03,062
+<i>É provável que estejam prontos
+para atacar.</i>
+
+1341
+01:37:03,890 --> 01:37:05,600
+E estamos preparados
+para isso.
+
+1342
+01:37:05,600 --> 01:37:08,129
+Mas as pessoas de Sokovia
+não estão.
+
+1343
+01:37:09,185 --> 01:37:10,651
+<i>Então, nossa prioridade...</i>
+
+1344
+01:37:11,273 --> 01:37:12,681
+<i>É tirar todos de lá.</i>
+
+1345
+01:37:12,882 --> 01:37:14,391
+Vocês estão sendo atacados!
+
+1346
+01:37:14,391 --> 01:37:16,035
+Esvaziem a cidade agora!
+
+1347
+01:37:23,702 --> 01:37:25,155
+Mexam-se, por favor.
+
+1348
+01:37:26,261 --> 01:37:28,693
+<i>Tudo o que eles querem
+é viver em paz.</i>
+
+1349
+01:37:29,242 --> 01:37:30,974
+<i>Mas isso
+não acontecerá hoje.</i>
+
+1350
+01:37:31,798 --> 01:37:34,049
+<i>Podemos dar nosso melhor
+pra protegê-los.</i>
+
+1351
+01:37:34,580 --> 01:37:36,080
+<i>E terminar nosso trabalho.</i>
+
+1352
+01:37:39,142 --> 01:37:41,328
+<i>Descobrir o que Ultron
+está construindo.</i>
+
+1353
+01:37:42,463 --> 01:37:43,967
+<i>Encontraremos Romanoff.</i>
+
+1354
+01:37:44,342 --> 01:37:46,064
+<i>E limparemos
+o campo de batalha.</i>
+
+1355
+01:37:47,157 --> 01:37:49,201
+<i>Vamos manter
+a luta entre nós.</i>
+
+1356
+01:37:56,597 --> 01:37:59,049
+Ultron acha
+que somos monstros.
+
+1357
+01:37:59,349 --> 01:38:00,974
+Que somos o problema
+da Terra.
+
+1358
+01:38:01,624 --> 01:38:03,510
+<i>Não se trata apenas
+de vencê-lo.</i>
+
+1359
+01:38:04,619 --> 01:38:06,122
+Mas de fazer o que é certo.
+
+1360
+01:38:13,233 --> 01:38:15,871
+<i>Natasha! Natasha!</i>
+
+1361
+01:38:16,171 --> 01:38:17,636
+Bruce?
+
+1362
+01:38:19,133 --> 01:38:21,115
+- Você está bem?
+- Sim.
+
+1363
+01:38:21,115 --> 01:38:23,331
+A equipe está na cidade.
+Vai começar a luta.
+
+1364
+01:38:23,331 --> 01:38:25,653
+Aposto que encontrou
+uma chave por aí...
+
+1365
+01:38:25,653 --> 01:38:27,930
+Sim. Encontrei.
+
+1366
+01:38:34,012 --> 01:38:35,554
+Então, o que vamos fazer?
+
+1367
+01:38:35,554 --> 01:38:37,354
+Vim para deixar você
+em segurança.
+
+1368
+01:38:37,654 --> 01:38:40,555
+- Mas ainda não acabamos.
+- Podemos ajudar a evacuar.
+
+1369
+01:38:40,555 --> 01:38:42,801
+Mas não posso lutar
+perto dos civis.
+
+1370
+01:38:43,351 --> 01:38:44,784
+E você já ajudou demais.
+
+1371
+01:38:47,062 --> 01:38:48,543
+Nossa luta acabou.
+
+1372
+01:38:49,927 --> 01:38:51,757
+Então simplesmente
+desaparecemos?
+
+1373
+01:38:56,618 --> 01:38:58,094
+Andem!
+
+1374
+01:39:02,658 --> 01:39:04,451
+<i>Seu alvo
+está na igreja, chefe.</i>
+
+1375
+01:39:05,129 --> 01:39:07,013
+<i>Acho que está
+esperando por você.</i>
+
+1376
+01:39:11,270 --> 01:39:13,274
+<i>Veio confessar
+seus pecados?</i>
+
+1377
+01:39:13,274 --> 01:39:15,889
+- Não sei. Quanto tempo tem?
+- Mais do que você.
+
+1378
+01:39:18,636 --> 01:39:20,035
+Tomou anabolizante?
+
+1379
+01:39:20,035 --> 01:39:21,823
+<i>Tipo, um coquetel
+de vibranium?</i>
+
+1380
+01:39:21,823 --> 01:39:23,880
+Você está parecendo
+um pouco... bombado.
+
+1381
+01:39:23,880 --> 01:39:26,062
+Está enrolando
+para proteger as pessoas.
+
+1382
+01:39:26,581 --> 01:39:28,919
+Essa é a missão. Esqueceu?
+
+1383
+01:39:29,219 --> 01:39:32,505
+Estou a frente da sua missão.
+Estou livre.
+
+1384
+01:39:36,203 --> 01:39:37,644
+O que foi?
+
+1385
+01:39:38,319 --> 01:39:40,660
+Achou que era o único
+que estava enrolando?
+
+1386
+01:39:41,314 --> 01:39:43,201
+<i>Aí está o resto do vibranium.</i>
+
+1387
+01:39:43,201 --> 01:39:44,953
+<i>Função:
+ainda não classificada.</i>
+
+1388
+01:39:44,953 --> 01:39:46,987
+Esse será seu fim, Tony.
+
+1389
+01:40:05,576 --> 01:40:06,992
+Saiam!
+
+1390
+01:40:11,968 --> 01:40:13,374
+<i>Saiam da ponte!</i>
+
+1391
+01:40:17,592 --> 01:40:18,999
+Corram!
+
+1392
+01:40:20,877 --> 01:40:22,283
+<i>Ultron.</i>
+
+1393
+01:40:28,118 --> 01:40:29,593
+Meu Visão.
+
+1394
+01:40:29,593 --> 01:40:32,090
+Afinal, eles conseguiram
+tirar tudo de mim.
+
+1395
+01:40:32,090 --> 01:40:34,191
+Você definiu as regras.
+Pode mudá-las.
+
+1396
+01:40:34,191 --> 01:40:35,596
+Tudo bem.
+
+1397
+01:40:59,291 --> 01:41:01,819
+- Sexta-feira, e o Visão?
+- Chefe, ele está agindo.
+
+1398
+01:41:01,819 --> 01:41:04,525
+<i>Deletando Ultron da internet.
+Não vai escapar por lá.</i>
+
+1399
+01:41:09,379 --> 01:41:10,873
+Você me desconectou.
+
+1400
+01:41:11,188 --> 01:41:12,779
+Acha que eu me importo?
+
+1401
+01:41:14,450 --> 01:41:16,239
+Você destruiu o meu mundo.
+
+1402
+01:41:16,700 --> 01:41:18,429
+Irei destruir o seu.
+
+1403
+01:42:02,994 --> 01:42:06,326
+- Sexta-feira?
+- Sokovia vai dar um passeio.
+
+1404
+01:42:18,544 --> 01:42:20,239
+Conseguem ver?
+
+1405
+01:42:20,861 --> 01:42:22,337
+A beleza disso.
+
+1406
+01:42:22,982 --> 01:42:24,755
+A inevitabilidade.
+
+1407
+01:42:25,240 --> 01:42:28,766
+Você se levanta
+apenas para cair.
+
+1408
+01:42:31,075 --> 01:42:33,285
+<i>Vocês, Vingadores...</i>
+
+1409
+01:42:33,285 --> 01:42:34,999
+<i>serão o meu meteoro.</i>
+
+1410
+01:42:34,999 --> 01:42:38,754
+<i>Minha fúria recairá
+e a terra rachará,</i>
+
+1411
+01:42:38,754 --> 01:42:41,005
+<i>junto com peso
+da sua derrota.</i>
+
+1412
+01:42:41,923 --> 01:42:43,708
+<i>Exilem-me
+de seus computadores...</i>
+
+1413
+01:42:43,708 --> 01:42:46,462
+<i>Virem minha própria carne
+contra mim.</i>
+
+1414
+01:42:46,462 --> 01:42:47,956
+<i>Isso não significa nada.</i>
+
+1415
+01:42:47,956 --> 01:42:49,640
+<i>Quando a poeira baixar...</i>
+
+1416
+01:42:49,640 --> 01:42:52,061
+<i>os únicos seres vivos
+nesse planeta...</i>
+
+1417
+01:42:52,627 --> 01:42:54,055
+<i>serão de metal.</i>
+
+1418
+01:42:58,756 --> 01:43:00,338
+Temos que ir.
+
+1419
+01:43:00,338 --> 01:43:01,744
+Não vai virar verde?
+
+1420
+01:43:01,744 --> 01:43:04,071
+Tenho um bom motivo
+para ficar calmo.
+
+1421
+01:43:04,500 --> 01:43:05,905
+Eu adoro você.
+
+1422
+01:43:14,450 --> 01:43:16,063
+Mas preciso do outro cara.
+
+1423
+01:43:21,252 --> 01:43:23,026
+Vamos terminar a missão.
+
+1424
+01:43:39,741 --> 01:43:41,596
+Isso nos deixa quites?
+
+1425
+01:43:43,454 --> 01:43:44,858
+Vá ser um herói.
+
+1426
+01:43:53,921 --> 01:43:56,391
+<i>O núcleo de vibranium possui
+um campo magnético.</i>
+
+1427
+01:43:56,391 --> 01:43:58,108
+<i>É o que mantém
+o solo firme.</i>
+
+1428
+01:43:58,108 --> 01:44:00,542
+- E se ele cair?
+- Agora, mataria milhares.
+
+1429
+01:44:00,542 --> 01:44:03,424
+<i>E se for alto o bastante,
+extinção global.</i>
+
+1430
+01:44:07,629 --> 01:44:09,934
+<i>O prédio não está vazio.
+Vá ao 10º andar.</i>
+
+1431
+01:44:15,019 --> 01:44:16,425
+Olá.
+
+1432
+01:44:16,917 --> 01:44:19,467
+Certo.
+Entrem na banheira.
+
+1433
+01:44:26,016 --> 01:44:28,195
+<i>Há uma movimentação
+perto da ponte.</i>
+
+1434
+01:44:30,663 --> 01:44:32,070
+Cap, estão indo até aí.
+
+1435
+01:44:32,070 --> 01:44:33,798
+Parece que já vieram.
+
+1436
+01:44:36,619 --> 01:44:39,132
+Stark, faça a cidade
+pousar em segurança.
+
+1437
+01:44:39,493 --> 01:44:41,285
+<i>O resto de nós
+só tem uma missão.</i>
+
+1438
+01:44:41,285 --> 01:44:43,008
+<i>Destruir essas coisas.</i>
+
+1439
+01:44:43,008 --> 01:44:45,238
+<i>Se acertarem vocês,
+acertem de volta.</i>
+
+1440
+01:44:45,238 --> 01:44:46,702
+<i>Se morrerem...</i>
+
+1441
+01:44:47,325 --> 01:44:48,778
+levantem e lutem.
+
+1442
+01:45:23,276 --> 01:45:24,682
+Vamos, vamos!
+
+1443
+01:45:29,644 --> 01:45:32,738
+- Como deixei isso acontecer?
+- Você está bem?
+
+1444
+01:45:32,738 --> 01:45:35,084
+- Isso é tudo culpa minha.
+- Olhe para mim.
+
+1445
+01:45:35,084 --> 01:45:37,608
+Se a culpa é sua,
+é de todo mundo. Quem liga?
+
+1446
+01:45:37,608 --> 01:45:40,266
+Está pronta para lutar?
+Está?
+
+1447
+01:45:40,787 --> 01:45:43,746
+Você tem que me dizer
+porque a cidade está voando.
+
+1448
+01:45:44,144 --> 01:45:47,782
+A cidade está voando
+e estamos enfrentando robôs.
+
+1449
+01:45:48,819 --> 01:45:51,305
+E eu com um arco e flecha.
+Nada disso faz sentido.
+
+1450
+01:45:54,732 --> 01:45:57,461
+Mas vou voltar lá fora
+porque é o meu trabalho.
+
+1451
+01:45:57,461 --> 01:46:00,342
+E eu não posso fazê-lo
+e tomar conta de você.
+
+1452
+01:46:00,342 --> 01:46:03,770
+Não importa o que você fez
+ou o que você foi.
+
+1453
+01:46:03,770 --> 01:46:06,834
+Se você sair, lute.
+E lute para matar.
+
+1454
+01:46:07,200 --> 01:46:10,041
+Vai ficar segura aqui.
+Seu irmão logo vai achar você.
+
+1455
+01:46:10,041 --> 01:46:11,931
+<i>Mas se sair
+por aquela porta...</i>
+
+1456
+01:46:12,608 --> 01:46:14,133
+você será uma Vingadora.
+
+1457
+01:46:18,716 --> 01:46:20,124
+Valeu pelo papo.
+
+1458
+01:46:24,095 --> 01:46:26,032
+A cidade está mesmo voando.
+
+1459
+01:46:39,276 --> 01:46:40,820
+Socorro!
+
+1460
+01:46:58,979 --> 01:47:00,385
+Peguei você!
+
+1461
+01:47:00,691 --> 01:47:02,102
+Olhe apenas para mim.
+
+1462
+01:47:08,182 --> 01:47:10,416
+<i>Você não pode
+salvar a todos eles.</i>
+
+1463
+01:47:11,824 --> 01:47:13,355
+<i>Você nunca...</i>
+
+1464
+01:47:13,355 --> 01:47:14,774
+Nunca o quê?
+
+1465
+01:47:14,774 --> 01:47:16,191
+Você não terminou!
+
+1466
+01:47:19,667 --> 01:47:21,141
+Estava cochilando?
+
+1467
+01:47:43,004 --> 01:47:44,409
+<i>Thor.</i>
+
+1468
+01:47:45,990 --> 01:47:48,120
+<i>Você está me incomodando.</i>
+
+1469
+01:48:23,459 --> 01:48:26,062
+- A área está limpa.
+- Aqui com certeza não.
+
+1470
+01:48:26,062 --> 01:48:27,723
+Nem um pouco limpo.
+
+1471
+01:48:30,330 --> 01:48:31,780
+Certo, estamos indo.
+
+1472
+01:48:36,066 --> 01:48:37,669
+Ninguém ia saber.
+
+1473
+01:48:38,239 --> 01:48:39,646
+Ninguém.
+
+1474
+01:48:41,431 --> 01:48:44,024
+"Quando eu o vi,
+Ultron estava em cima dele."
+
+1475
+01:48:44,024 --> 01:48:46,386
+"Sim, sentirei falta
+do ligeirinho."
+
+1476
+01:48:46,386 --> 01:48:47,791
+"Já estou sentindo."
+
+1477
+01:49:02,830 --> 01:49:05,227
+Parem de atirar!
+
+1478
+01:49:13,839 --> 01:49:16,304
+- Lá vai.
+- Obrigada.
+
+1479
+01:49:25,889 --> 01:49:27,851
+Rotores antigravitacionais
+estão girando.
+
+1480
+01:49:27,851 --> 01:49:29,851
+Toque-os
+e teremos propulsão reversa.
+
+1481
+01:49:29,851 --> 01:49:32,914
+- A cidade não descerá devagar.
+- A torre de vibranium.
+
+1482
+01:49:32,914 --> 01:49:34,879
+- Se Thor acertá-la?
+- Ela vai rachar.
+
+1483
+01:49:34,879 --> 01:49:37,214
+Não é o suficiente.
+O impacto seria devastador.
+
+1484
+01:49:37,214 --> 01:49:40,610
+E se cobríssemos o outro lado?
+Fazer a ação atômica retroceder?
+
+1485
+01:49:40,610 --> 01:49:42,197
+<i>Isso pode destruir a cidade.</i>
+
+1486
+01:49:42,794 --> 01:49:44,201
+<i>E todos nela.</i>
+
+1487
+01:49:50,467 --> 01:49:52,309
+<i>A próxima onda
+atingirá em breve.</i>
+
+1488
+01:49:52,309 --> 01:49:54,330
+<i>- Novidades, Stark?
+- Nada de bom.</i>
+
+1489
+01:49:54,911 --> 01:49:57,294
+Talvez um modo de explodir
+a cidade.
+
+1490
+01:49:57,294 --> 01:50:00,242
+Impedirá o choque contra o solo,
+se conseguirem sair.
+
+1491
+01:50:00,242 --> 01:50:02,568
+Pedi uma solução,
+e não uma rota de fuga.
+
+1492
+01:50:02,568 --> 01:50:05,044
+<i>O raio de impacto
+está aumentando rápido.</i>
+
+1493
+01:50:05,345 --> 01:50:07,012
+<i>Precisaremos tomar
+uma decisão.</i>
+
+1494
+01:50:07,620 --> 01:50:09,700
+Cap, essas pessoas
+não sabem para onde ir.
+
+1495
+01:50:09,700 --> 01:50:11,590
+Se Stark conseguir
+explodir tudo...
+
+1496
+01:50:11,590 --> 01:50:13,122
+Não até todos estarem seguros.
+
+1497
+01:50:13,122 --> 01:50:15,821
+Todos aqui
+contra todos lá embaixo?
+
+1498
+01:50:15,821 --> 01:50:17,521
+- A conta é fácil!
+- Não saio...
+
+1499
+01:50:17,521 --> 01:50:20,023
+- enquanto houver civis.
+- Não disse que vamos sair.
+
+1500
+01:50:22,489 --> 01:50:24,188
+Há maneiras piores
+de morrer.
+
+1501
+01:50:29,264 --> 01:50:31,486
+Onde mais teríamos
+uma vista como esta?
+
+1502
+01:50:33,596 --> 01:50:36,040
+<i>Fico feliz por ter gostado
+da vista, Romanoff.</i>
+
+1503
+01:50:36,241 --> 01:50:37,941
+<i>Ela está prestes a melhorar.</i>
+
+1504
+01:51:01,698 --> 01:51:03,098
+<i>Muito bom, não é?</i>
+
+1505
+01:51:03,098 --> 01:51:05,821
+Recuperamos com a ajuda
+de uns velhos amigos.
+
+1506
+01:51:05,821 --> 01:51:07,836
+Está empoeirado,
+mas servirá.
+
+1507
+01:51:07,836 --> 01:51:11,532
+- Fury, seu filho da mãe.
+- Beija sua mãe com essa boca?
+
+1508
+01:51:11,532 --> 01:51:14,361
+Estamos a 5,500 metros
+e subindo.
+
+1509
+01:51:14,361 --> 01:51:19,078
+Salva-vidas prontos.
+Lançando em 3... 2...
+
+1510
+01:51:20,075 --> 01:51:21,474
+Vão buscá-los.
+
+1511
+01:51:30,181 --> 01:51:31,680
+Essa é a S.H.I.E.L.D.?
+
+1512
+01:51:32,192 --> 01:51:34,205
+É o que ela deveria ser.
+
+1513
+01:51:36,335 --> 01:51:37,734
+Não é tão ruim assim.
+
+1514
+01:51:41,063 --> 01:51:42,462
+Embarquem todos.
+
+1515
+01:51:47,915 --> 01:51:51,589
+Senhor, temos vários robôs
+em nosso flanco direito.
+
+1516
+01:51:51,589 --> 01:51:53,257
+Mostre-os
+do que somos capazes.
+
+1517
+01:51:53,690 --> 01:51:55,090
+Sua vez.
+
+1518
+01:51:59,654 --> 01:52:03,265
+<i>Isso! Agora essa sim
+será uma boa história!</i>
+
+1519
+01:52:05,291 --> 01:52:07,557
+<i>Sim, se viver para contá-la.</i>
+
+1520
+01:52:07,557 --> 01:52:09,237
+<i>Não acha que consigo?</i>
+
+1521
+01:52:09,237 --> 01:52:11,237
+<i>Se sobrevivermos,
+dou um abraço em você.</i>
+
+1522
+01:52:11,237 --> 01:52:13,588
+<i>Você tinha que fazer
+ficar estranho.</i>
+
+1523
+01:52:17,454 --> 01:52:20,324
+<i>Após este grupo,
+tem muito mais chegando.</i>
+
+1524
+01:52:21,538 --> 01:52:24,098
+<i>Vamos. Rápido.
+Sigam-me.</i>
+
+1525
+01:52:37,813 --> 01:52:40,594
+Todo mundo, vamos.
+Andem, andem.
+
+1526
+01:52:43,196 --> 01:52:45,520
+A nave número 6
+está lotada e fechada.
+
+1527
+01:52:45,520 --> 01:52:49,936
+Armazenada... é... e...
+cheio de pessoas.
+
+1528
+01:52:50,720 --> 01:52:52,119
+Ataque!
+
+1529
+01:52:54,454 --> 01:52:56,054
+Essa não!
+
+1530
+01:53:06,237 --> 01:53:08,210
+<i>Acham
+que estão salvando alguém?</i>
+
+1531
+01:53:09,050 --> 01:53:10,449
+Se eu girar a chave...
+
+1532
+01:53:10,449 --> 01:53:12,339
+e soltar essa rocha
+um pouco antes,
+
+1533
+01:53:12,339 --> 01:53:14,119
+ainda assim,
+bilhões vão morrer.
+
+1534
+01:53:14,119 --> 01:53:18,068
+- Nem você poderá impedir.
+- Sou Thor, filho de Odin.
+
+1535
+01:53:18,068 --> 01:53:20,406
+E enquanto houver vida
+em meu corpo...
+
+1536
+01:53:20,406 --> 01:53:24,409
+Não sei mais o que dizer.
+Estás pronto?
+
+1537
+01:53:31,370 --> 01:53:33,098
+Tem um balanceamento
+horrível.
+
+1538
+01:53:33,098 --> 01:53:36,316
+Se inclinar demais
+tu perdes força no giro.
+
+1539
+01:53:37,273 --> 01:53:40,564
+<i>Já sei.
+Se criarmos um selo de calor.</i>
+
+1540
+01:53:40,564 --> 01:53:43,832
+<i>Posso sobrecarregar
+a torre por baixo.</i>
+
+1541
+01:53:43,832 --> 01:53:45,433
+<i>Calculando.</i>
+
+1542
+01:53:55,309 --> 01:53:57,404
+<i>O selo de calor
+precisa de energia.</i>
+
+1543
+01:53:57,404 --> 01:53:58,805
+<i>Thor, tenho um plano.</i>
+
+1544
+01:53:58,805 --> 01:54:01,013
+<i>Não há tempo.
+Estão indo para o núcleo.</i>
+
+1545
+01:54:01,013 --> 01:54:03,746
+<i>- Rhodes, embarque as pessoas.
+- Certo.</i>
+
+1546
+01:54:03,746 --> 01:54:05,739
+Vingadores,
+é hora de lutar sério.
+
+1547
+01:54:15,285 --> 01:54:17,156
+- Está bem?
+- Sim.
+
+1548
+01:54:17,579 --> 01:54:18,943
+Romanoff?
+
+1549
+01:54:18,943 --> 01:54:21,842
+Melhor você e Banner não estarem
+brincando de esconder o picles.
+
+1550
+01:54:21,842 --> 01:54:25,072
+Relaxe, homem de lata.
+Nem todos podem voar.
+
+1551
+01:54:30,132 --> 01:54:32,397
+- Qual é o lance?
+- Esse é o lance.
+
+1552
+01:54:32,397 --> 01:54:34,836
+<i>Se Ultron chegar ao núcleo,
+nós perdemos.</i>
+
+1553
+01:54:38,810 --> 01:54:40,572
+É o melhor que podes fazer?!
+
+1554
+01:54:50,595 --> 01:54:52,226
+Você tinha que perguntar.
+
+1555
+01:54:52,226 --> 01:54:54,539
+Este é o melhor
+que posso fazer.
+
+1556
+01:54:54,848 --> 01:54:56,867
+Era o que eu queria.
+
+1557
+01:54:56,867 --> 01:54:59,564
+Todos vocês,
+contra todos de mim.
+
+1558
+01:55:00,196 --> 01:55:02,359
+Como esperam me impedir?
+
+1559
+01:55:04,107 --> 01:55:05,891
+Como o velhinho disse:
+
+1560
+01:55:06,832 --> 01:55:08,231
+Juntos!
+
+1561
+01:56:36,545 --> 01:56:38,453
+Bem, avaliando
+em retrospectiva...
+
+1562
+01:56:47,754 --> 01:56:50,399
+- Estão tentando fugir.
+- Nenhum pode escapar.
+
+1563
+01:56:50,399 --> 01:56:52,182
+<i>- Rhodes...
+- Deixe comigo.</i>
+
+1564
+01:56:52,694 --> 01:56:56,820
+<i>Eu não disse que podiam sair.
+Máquina de Combate em ação.</i>
+
+1565
+01:57:02,856 --> 01:57:04,520
+O que foi isso?
+
+1566
+01:57:04,520 --> 01:57:07,024
+Temos que sair.
+O ar está rarefeito.
+
+1567
+01:57:07,024 --> 01:57:09,230
+Embarquem.
+Procurarei atrasados.
+
+1568
+01:57:09,230 --> 01:57:10,994
+- Irei em seguida.
+- E o núcleo?
+
+1569
+01:57:12,204 --> 01:57:13,603
+Eu o protegerei.
+
+1570
+01:57:14,801 --> 01:57:16,201
+É o meu trabalho.
+
+1571
+01:57:17,424 --> 01:57:18,825
+Nat, por aqui.
+
+1572
+01:57:23,363 --> 01:57:25,037
+Embarque as pessoas.
+
+1573
+01:57:25,037 --> 01:57:27,380
+- Não a abandonarei.
+- Posso cuidar disso.
+
+1574
+01:57:29,302 --> 01:57:32,151
+Só volte quando todos
+tiverem embarcado.
+
+1575
+01:57:32,747 --> 01:57:34,146
+Entendeu?
+
+1576
+01:57:35,048 --> 01:57:37,348
+Sou 12 minutos
+mais velho que você.
+
+1577
+01:57:37,348 --> 01:57:38,749
+Vá logo.
+
+1578
+01:57:39,911 --> 01:57:41,790
+<i>Chefe,
+níveis de energia abaixo...</i>
+
+1579
+01:57:41,790 --> 01:57:43,590
+Usaremos tudo.
+Só há uma chance.
+
+1580
+01:57:48,182 --> 01:57:49,882
+Sei o que preciso fazer.
+
+1581
+01:57:50,581 --> 01:57:53,679
+A sala de jantar.
+Tiro a parede da direita...
+
+1582
+01:57:53,679 --> 01:57:56,030
+e crio um espaço
+para a Laura trabalhar.
+
+1583
+01:57:56,680 --> 01:58:00,029
+Uma porta anti-ruído
+para o barulho das crianças.
+
+1584
+01:58:00,029 --> 01:58:01,679
+Sempre comem
+na cozinha mesmo.
+
+1585
+01:58:01,679 --> 01:58:03,280
+Ninguém usa a sala de jantar.
+
+1586
+01:58:08,778 --> 01:58:12,077
+- Não temos muito tempo.
+- Vá para uma nave.
+
+1587
+01:58:25,274 --> 01:58:26,773
+Oi, grandão.
+
+1588
+01:58:28,123 --> 01:58:29,973
+O sol está se pondo.
+
+1589
+01:58:30,423 --> 01:58:33,572
+<i>Você vai ver.
+Vai ficar bem.</i>
+
+1590
+01:58:37,222 --> 01:58:38,672
+Costel!
+
+1591
+01:58:39,590 --> 01:58:41,270
+Estávamos no mercado.
+
+1592
+01:58:41,770 --> 01:58:43,169
+Costel!
+
+1593
+01:58:56,816 --> 01:58:58,866
+<i>Thor,
+preciso que volte à igreja.</i>
+
+1594
+01:58:58,866 --> 01:59:00,766
+- Esses são os últimos?
+- São.
+
+1595
+01:59:00,766 --> 01:59:03,495
+<i>- Os outros já estão na nave.
+- Se isso funcionar...</i>
+
+1596
+01:59:03,815 --> 01:59:05,464
+talvez não sobrevivamos.
+
+1597
+01:59:05,813 --> 01:59:07,263
+Talvez não.
+
+1598
+01:59:25,960 --> 01:59:29,658
+<i>Não tenho cordas,
+então me divirto...</i>
+
+1599
+01:59:29,908 --> 01:59:33,358
+<i>Não estou amarrado
+a ninguém.</i>
+
+1600
+02:00:07,849 --> 02:00:09,999
+Essa você não viu mesmo.
+
+1601
+02:01:05,936 --> 02:01:08,235
+<i>Pelo amor de Deus!</i>
+
+1602
+02:01:38,328 --> 02:01:40,128
+Não, estou bem.
+
+1603
+02:01:42,477 --> 02:01:44,676
+Foi um dia longo.
+
+1604
+02:01:59,084 --> 02:02:00,583
+Wanda...
+
+1605
+02:02:00,812 --> 02:02:04,259
+se você ficar aqui,
+morrerá.
+
+1606
+02:02:05,736 --> 02:02:07,236
+Acabei de morrer.
+
+1607
+02:02:07,998 --> 02:02:09,898
+Sabe como foi a sensação?
+
+1608
+02:02:23,760 --> 02:02:25,782
+Foi desse jeito.
+
+1609
+02:03:00,924 --> 02:03:02,823
+<i>Thor, quando eu disser.</i>
+
+1610
+02:03:18,051 --> 02:03:19,451
+Agora!
+
+1611
+02:03:46,746 --> 02:03:50,073
+<i>Olá, grandão, conseguimos.</i>
+
+1612
+02:03:50,073 --> 02:03:51,565
+<i>Missão cumprida.</i>
+
+1613
+02:03:52,007 --> 02:03:54,313
+<i>Agora você tem
+que dar a volta, certo?</i>
+
+1614
+02:03:59,110 --> 02:04:01,400
+<i>Não podemos rastreá-lo
+no modo furtivo.</i>
+
+1615
+02:04:03,063 --> 02:04:05,680
+<i>Então ajude-me.
+Preciso...</i>
+
+1616
+02:04:49,645 --> 02:04:52,145
+Você está com medo.
+
+1617
+02:04:52,532 --> 02:04:54,076
+De você?
+
+1618
+02:04:54,376 --> 02:04:57,657
+Da morte.
+Você é o último.
+
+1619
+02:04:58,294 --> 02:05:00,405
+Você deveria ser o último.
+
+1620
+02:05:01,050 --> 02:05:03,142
+Stark pediu por um salvador.
+
+1621
+02:05:03,820 --> 02:05:06,147
+E contentou-se
+por ser um escravo.
+
+1622
+02:05:06,147 --> 02:05:08,688
+Suponho
+que ambos somos decepções.
+
+1623
+02:05:11,048 --> 02:05:12,531
+Acho que somos.
+
+1624
+02:05:13,002 --> 02:05:14,539
+Humanos são estranhos.
+
+1625
+02:05:15,976 --> 02:05:20,163
+Acham que ordem e caos
+são opostos de alguma forma...
+
+1626
+02:05:21,377 --> 02:05:23,283
+e tentam controlar
+o que não podem.
+
+1627
+02:05:24,353 --> 02:05:26,392
+Mas há graciosidade
+nas falhas deles.
+
+1628
+02:05:27,301 --> 02:05:28,871
+Acho que não viu isso.
+
+1629
+02:05:29,945 --> 02:05:32,845
+- Eles estão condenados.
+- Estão.
+
+1630
+02:05:37,087 --> 02:05:40,206
+Mas uma coisa não é bonita
+porque dura.
+
+1631
+02:05:42,169 --> 02:05:44,219
+É um privilégio
+estar entre eles.
+
+1632
+02:05:44,468 --> 02:05:47,349
+Você é quase ingênuo.
+
+1633
+02:05:47,349 --> 02:05:48,768
+Bem...
+
+1634
+02:05:50,368 --> 02:05:52,567
+Eu nasci ontem.
+
+1635
+02:06:41,856 --> 02:06:46,155
+BASE DOS NOVOS VINGADORES
+NORTE DE NOVA IORQUE
+
+1636
+02:07:05,350 --> 02:07:07,270
+<i>Diga "oi" para a tia Nat.</i>
+
+1637
+02:07:08,349 --> 02:07:10,049
+Feio.
+
+1638
+02:07:10,279 --> 02:07:12,897
+Um dos técnicos achou isto.
+
+1639
+02:07:12,897 --> 02:07:15,048
+Estava no mar de Banda.
+
+1640
+02:07:16,297 --> 02:07:18,197
+Pode ser o Quinjet.
+
+1641
+02:07:18,197 --> 02:07:20,146
+Com o sistema de camuflagem
+do Stark,
+
+1642
+02:07:20,146 --> 02:07:22,147
+ainda não conseguimos
+rastreá-lo.
+
+1643
+02:07:22,946 --> 02:07:24,366
+Tudo bem.
+
+1644
+02:07:24,945 --> 02:07:27,595
+Ele pode ter pulado
+e nadado até Fiji.
+
+1645
+02:07:28,375 --> 02:07:30,293
+Ele vai mandar
+um cartão-postal.
+
+1646
+02:07:30,293 --> 02:07:31,994
+"Eu queria você aqui."
+
+1647
+02:07:34,293 --> 02:07:37,843
+Você me mandou recrutá-lo
+tempos atrás.
+
+1648
+02:07:39,242 --> 02:07:41,642
+Você já sabia
+que isso aconteceria?
+
+1649
+02:07:44,141 --> 02:07:45,641
+Nunca se sabe.
+
+1650
+02:07:46,141 --> 02:07:49,690
+Você espera o melhor,
+e lida com o que recebe.
+
+1651
+02:07:50,039 --> 02:07:51,838
+Tenho uma ótima equipe.
+
+1652
+02:07:52,789 --> 02:07:54,539
+Nada dura para sempre.
+
+1653
+02:07:55,188 --> 02:07:57,138
+Problemas, Srta. Romanoff.
+
+1654
+02:07:57,388 --> 02:07:59,138
+Não importa
+quem ganha ou perde...
+
+1655
+02:07:59,138 --> 02:08:01,286
+os problemas sempre voltam.
+
+1656
+02:08:04,536 --> 02:08:07,196
+<i>- As regras mudaram.
+- É algo novo.</i>
+
+1657
+02:08:07,196 --> 02:08:09,185
+O Visão
+é uma inteligência artificial.
+
+1658
+02:08:09,185 --> 02:08:11,035
+- Uma máquina?
+- Então não vale.
+
+1659
+02:08:11,035 --> 02:08:13,533
+Não. Não uma pessoa
+levantando o martelo.
+
+1660
+02:08:13,533 --> 02:08:16,133
+- Sim, regras diferentes.
+- Cara legal. E artificial.
+
+1661
+02:08:16,133 --> 02:08:17,744
+- Valeu.
+- Se ergueu o martelo...
+
+1662
+02:08:17,744 --> 02:08:19,482
+pode ficar
+com a Joia da Mente.
+
+1663
+02:08:20,232 --> 02:08:22,181
+Está segura com o Visão.
+
+1664
+02:08:22,632 --> 02:08:25,081
+Hoje em dia,
+segurança nunca é demais.
+
+1665
+02:08:27,130 --> 02:08:29,080
+Colocando o martelo
+num elevador...
+
+1666
+02:08:29,080 --> 02:08:31,029
+- Ele ainda sobe.
+- E não é digno.
+
+1667
+02:08:31,029 --> 02:08:32,759
+Sentirei falta
+dessas conversas.
+
+1668
+02:08:32,759 --> 02:08:34,230
+Não sentirá se ficar aqui.
+
+1669
+02:08:34,779 --> 02:08:36,527
+Não tenho escolha.
+
+1670
+02:08:36,527 --> 02:08:38,877
+A Joia da Mente
+é a quarta Joia do Infinito...
+
+1671
+02:08:38,877 --> 02:08:42,177
+a aparecer recentemente.
+Não é coincidência.
+
+1672
+02:08:42,877 --> 02:08:46,526
+Alguém fez um jogo complexo
+e nos transformou em peões.
+
+1673
+02:08:46,526 --> 02:08:48,646
+Quando as peças
+estiverem em posição...
+
+1674
+02:08:48,646 --> 02:08:50,124
+Xeque-mate.
+
+1675
+02:08:50,124 --> 02:08:51,974
+Acha que descobre
+o que vem aí?
+
+1676
+02:08:51,974 --> 02:08:53,375
+Acho.
+
+1677
+02:08:53,655 --> 02:08:55,374
+A não ser este aqui...
+
+1678
+02:08:55,374 --> 02:08:57,324
+nada é inexplicável.
+
+1679
+02:09:05,022 --> 02:09:08,071
+Esse cara não tem consideração
+com os jardineiros.
+
+1680
+02:09:10,620 --> 02:09:13,478
+Mas sentirei falta dele.
+E você sentirá a minha.
+
+1681
+02:09:13,478 --> 02:09:15,799
+Haverá
+muitas lágrimas másculas.
+
+1682
+02:09:17,019 --> 02:09:18,867
+Sentirei sua falta, Tony.
+
+1683
+02:09:18,867 --> 02:09:22,617
+É mesmo? Está na hora
+de eu dar um tempo.
+
+1684
+02:09:22,917 --> 02:09:25,417
+Talvez eu siga
+o exemplo do Barton.
+
+1685
+02:09:25,417 --> 02:09:28,416
+Viver numa fazenda com a Pepper
+e torcer para o melhor.
+
+1686
+02:09:28,866 --> 02:09:31,964
+- Uma vida simples.
+- Um dia, você também terá.
+
+1687
+02:09:31,964 --> 02:09:35,463
+Não sei.
+Família, estabilidade...
+
+1688
+02:09:36,314 --> 02:09:39,563
+O cara que queria isso
+foi congelado há 75 anos.
+
+1689
+02:09:41,113 --> 02:09:43,112
+Uma pessoa diferente
+saiu de lá.
+
+1690
+02:09:47,211 --> 02:09:48,661
+Você ficará bem?
+
+1691
+02:09:50,491 --> 02:09:52,011
+Estou em casa.
+
+1692
+02:09:59,909 --> 02:10:02,957
+Vai ficar olhando a parede
+ou quer trabalhar?
+
+1693
+02:10:02,957 --> 02:10:05,407
+- É uma parede legal.
+- Achei que você e Tony...
+
+1694
+02:10:05,407 --> 02:10:07,407
+ainda estavam flertando.
+
+1695
+02:10:07,757 --> 02:10:09,207
+Como estamos?
+
+1696
+02:10:09,207 --> 02:10:12,756
+- Não somos os Yankees de 27.
+- Mas temos nossos méritos.
+
+1697
+02:10:13,005 --> 02:10:15,806
+Eles são bons.
+Mas não são uma equipe.
+
+1698
+02:10:15,806 --> 02:10:17,365
+Vamos deixá-los em forma.
+
+1699
+02:10:35,550 --> 02:10:37,250
+Avante...
+
+1700
+02:12:56,383 --> 02:12:58,928
+Certo...
+
+1701
+02:12:59,228 --> 02:13:01,928
+Eu resolverei sozinho.
+
